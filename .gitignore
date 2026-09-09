@@ -1,0 +1,10 @@
+# Môi trường ảo của Dashboard — dựng lại bằng requirements-app.txt, đừng đưa lên git
+.venv/
+__pycache__/
+*.pyc
+
+# File ETL ghi tạm khi CSV đích đang mở trong Excel
+*.new.csv
+
+# File tạm của Excel/Word khi đang mở
+~$*

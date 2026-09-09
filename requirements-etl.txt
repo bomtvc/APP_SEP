@@ -1,0 +1,7 @@
+# Phụ thuộc của ETL — cài vào Python TOÀN CỤC (etl/run_all.py chạy bằng python này).
+# KHÔNG cài streamlit ở đây: streamlit cần protobuf>=5, sẽ phá paddlepaddle-gpu nếu
+# máy có cài (paddlepaddle yêu cầu protobuf<=3.20.2). Dashboard dùng .venv riêng.
+pandas==2.3.3
+openpyxl==3.1.5
+pymupdf==1.26.7
+pillow==12.0.0

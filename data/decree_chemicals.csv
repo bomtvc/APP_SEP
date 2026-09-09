@@ -1,0 +1,1360 @@
+﻿appendix,subgroup,stt,name_sci,name_vn,cas,formula,threshold_kg,src_line
+I,,1.,"1,3-Butadiene","1,3-Butadien",106-99-0,C4H6,,26
+I,,2.,Ethanoic acid,Axit Axetic (GAA),64-19-7,C2H4O2,,27
+I,,3.,Acrylonitrile,Acrylonitrile,107-13-1,C3H3N,,28
+I,,4.,Ammonia (anhydrous),Amoniac (khan),7664-41-7,NH3,,29
+I,,5.,Argon,Argon,7440-37-1,Ar,,30
+I,,6.,Hydrochloric acid,Axit Hydrochloric,7647-01-0,HCl,,31
+I,,7.,Nitric acid,Axit nitric,7697-37-2,HNO3,,32
+I,,8.,Phosphoric acid,Axit photphoric,7664-38-2,H3PO4,,33
+I,,9.,Sulfuric acid,Axit Sulfuric,7664-93-9,H2SO4,,34
+I,,10.,Benzene,Benzen,71-43-2,C6H6,,35
+I,,11.,1-Buten,1-Butene,106-98-9,C4H8,,36
+I,,12.,"Diisocyanate (TDI, MDI, HDI…)","Diisocyanate (TDI, MDI, HDI…)",,---,,37
+I,,13.,Ethanol,Etanol,64-17-5,C2H6O,,38
+I,,14.,Ethylene glycol,Ethylene glycol,107-21-1,C2H6O2,,39
+I,,15.,Ethylene,Etylen,74-85-1,C2H4,,40
+I,,16.,Ethylene oxide,Etylen oxit,75-21-8,C2H4O,,41
+I,,17.,Hydrogen fluoride,Hydro florua,7664-39-3,HF,,42
+I,,18.,Hydrogen peroxide,Hydro peroxit,7722-84-1,H2O2,,43
+I,,19.,Isopropyl alcohol,Isopropanol,67-63-0,C3H8O,,44
+I,,20.,Manganese sulfate,Mangan Sunphat,7785-87-7,MnSO4,,45
+I,,21.,Methanol,Metanol,67-56-1,CH4O,,46
+I,,22.,2-Butanone,Methyl ethyl ketone (MEK),78-93-3,C4H8O,,47
+I,,23.,Sodium Bicarbonate,Natri bicarbonat,144-55-8,CHNaO3,,48
+I,,24.,Sodium hydroxide,Natri hydroxit,1310-73-2,NaOH,,49
+I,,25.,n-Butanol,n-Butanol,71-36-3,C4H10O,,50
+I,,26.,Nitrogen,Nitơ,7727-37-9,N2,,51
+I,,27.,Oxygen,Oxy,7782-44-7,O2,,52
+I,,28.,Phenol,Phenol,108-95-2,C6H6O,,53
+I,,29.,Phosphorus trihydride (phosphine),Photpho trihydrua (photphin),7803-51-2,PH3,,54
+I,,30.,Phosphorus pentachloride,Phosphorus pentachloride,10026-13-8,PCl5,,55
+I,,31.,1-Propene,Propylen,115-07-1,C3H6,,56
+I,,32.,Silane,Silan,7803-62-5,SiH4,,57
+I,,33.,Titanium dioxide,Titan dioxit,13463-67-7,TiO2,,58
+I,,34.,Methyl benzene,Toluene,108-88-3,C7H8,,59
+I,,35.,Triethanolamine,Triethanol amine,102-71-6,C6H15NO3,,60
+I,,36.,Vinyl benzene (styrene),Vinyl benzen,100-42-5,C8H8,,61
+I,,37.,Vinyl chloride,Vinyl clorua,75-01-4,C2H3Cl,,62
+I,,38.,Cyclohexane,Xyclohexan,110-82-7,C6H12,,63
+I,,39.,Xylene,Xylen,1330-20-7,C8H10,,64
+II,,1.,Acetaldehyde,Axetandehit,75-07-0,C2H4O,,69
+II,,2.,Acetaldehyde oxime,Axetandehit oxim,107-29-9,C2H5NO,,70
+II,,3.,Acetonitrile,Axetonitril,75-05-8,C2H3N,,71
+II,,4.,Acetyl iodide,Iot axetyl,507-02-8,C2H3IO,,72
+II,,5.,Acetylene,Axetylen,74-86-2,C2H2,,73
+II,,6.,2-Acetyloxy benzoic acid,Axit 2-axetyloxy benzoic,50-78-2,C9H8O4,,74
+II,,7.,Acrylic acid,Axit acrylic,79-10-7,C3H4O2,,75
+II,,8.,Acrylonitrile,Acrylonitrile,107-13-1,C3H3N,,76
+II,,9.,Adiponitrile,Adiponitril,111-69-3,C6H8N2,,77
+II,,10.,Allyl acetate,Allyl axetat,591-87-7,C5H8O2,,78
+II,,11.,Allyl bromide,Allyl bromua,106-95-6,C3H5Br,,79
+II,,12.,Allyl chloride,Allyl chlorit,107-05-1,C3H5Cl,,80
+II,,13.,Allyl chloro formate,Allyl clo fomat,2937-50-0,C4H5ClO2,,81
+II,,14.,Allyl ethyl ether,Allyl etyl ete,557-31-3,C5H10O,,82
+II,,15.,Allyl glycidyl ether,Allyl glycidyl ete,106-92-3,C6H10O2,,83
+II,,16.,Allyl isothio cyanate,Allyl isotioxyanat,57-06-7,C4H5NS,,84
+II,,17.,Allyl trichloro silane,Allyl triclo silan,107-37-9,C3H5Cl3Si,,85
+II,,18.,Aluminium carbide,Nhôm cacbua,1299-86-1,Al4C3,,86
+II,,19.,Aluminium chloride,Nhôm clorua,7446-70-0,AlCl3,,87
+II,,20.,Aluminium nitrate,Nhôm nitrat,13473-90-0,Al(NO3)3,,88
+II,,21.,Aluminium powder,Bột nhôm,7429-90-5,Al,,89
+II,,22.,Aluminium phosphide (AlP),Nhôm photphua,20859-73-8,AlP,,90
+II,,23.,Amalgam,"Hỗn hống kim loại kiềm, kiềm thổ",,---,,91
+II,,24.,Ammonium perchlorate,Amoni perclorat,7790-98-9,NH4ClO4,,92
+II,,25.,N-Amino ethyl piperazine,N-amino etyl piperazin,140-31-8,C6H15N3,,93
+II,,26.,2-Amino pyridine,2-Amino pyridin,504-29-0,C5H6N2,,94
+II,,27.,3-Amino pyridine,3-Amino pyridin,462-08-8,C5H6N2,,95
+II,,28.,4-Amino pyridine,4-Amino pyridin,504-24-5,C5H6N2,,96
+II,,29.,2-Amino-4-chlorophenol,2-Amino-4-clo phenol,95-85-2,C6H6ClNO,,97
+II,,30.,O-Aminoazo toluene,o-Aminoazo toluen,97-56-3,C14H15N3,,98
+II,,31.,4-Aminobiphenyl,4-Biphenyl amin,92-67-1,C12H11N,,99
+II,,32.,Aminocarb,Aminocarb,2032-59-9,C11H16 N2O2,,100
+II,,33.,Bis(3-aminopropyl) amine,Bis(3-aminopropyl) amin,56-18-8,C6H17N3,,101
+II,,34.,Ammonia (anhydrous),Amoniac (khan),7664-41-7,NH3,,102
+II,,35.,Ammonium hydrogen difluoride,Amon hydrodiflorua,1341-49-7,NH4HF2,,103
+II,,36.,Ammonium persulfate,Amoni persunphat,7727-54-0,H8N2O8S2,,104
+II,,37.,Ammonium sulfide,Amon sunfua,12135-76-1,(NH4)2S,,105
+II,,38.,Amyl acetate,Amyl axetat,628-63-7,C7H14O2,,106
+II,,39.,Amyl butyrate,Amyl butyrat,106-27-4,C9H18O2,,107
+II,,40.,n-Amyl chloride,n-Amyl clo,543-59-9,C5H11Cl,,108
+II,,41.,Amyl formate,Amyl format,638-49-3,C7H5Cl3,,109
+II,,42.,Amyl mercaptan,Amyl mercaptan,110-66-7,C5H12S,,110
+II,,43.,Iso-Amyl nitrite,Iso-Amyl nitrite,110-46-3,C5H11NO2,,111
+II,,44.,Amyl trichloro silane,Amyl triclo silan,107-72-2,C5H11Cl3Si,,112
+II,,45.,Aniline,Anilin,62-53-3,C6H7N,,113
+II,,46.,Aniline hydrocloride,Anilin hydroclorit,142-04-1,C6H8ClN,,114
+II,,47.,o-Anisidine,o-Anisidin,90-04-0,C7H9NO,,115
+II,,48.,p-Anisidine (4-Methoxybenzenanime),p-Anisidin (4-Methoxy benzen anim),104-94-9,C7H9NO,,116
+II,,49.,Anisole (methoxybenzene),Anisol (methoxy benzen),100-66-3,C7H8O,,117
+II,,50.,Antimony trichloride,Antimonony clorua,10025-91-9,SbCl3,,118
+II,,51.,"Anthracene-9,10-dione","Anthracen-9,10-dion",84-65-1,C14H8O2,,119
+II,,52.,Argon,Argon,7440-37-1,Ar,,120
+II,,53.,Asbestos chrysotile,Amiăng trắng,12001-29-5,Mg3(Si2O5)(OH)4,,121
+II,,54.,Atrazine,Atrazin,1912-24-9,C8H14ClN5,,122
+II,,55.,Bari nitrate,Bari nitrat,10022-31-8,Ba(NO3)2,,123
+II,,56.,Barium,Bari,7440-39-3,Ba,,124
+II,,57.,Barium bromate,Bari bromic,13967-90-3,Ba(BrO3)­2,,125
+II,,58.,Barium chlorate,Bari clorat,13477-00-4,Ba(ClO3)2,,126
+II,,59.,Barium hypochlorite,Bari hypoclorit,13477-10-6,Ba(ClHO)2,,127
+II,,60.,Barium oxide,Bari oxit,1304-28-5,BaO,,128
+II,,61.,Barium perchlorate,Bari perclorat,13465-95-7,Ba(ClO4)2,,129
+II,,62.,Barium peroxide,Bari peroxit,1304-29-6,BaO2,,130
+II,,63.,"1,4-Benzene diamine dihydrochloride","1,4-Benzen diamin dihydroclorit",624-18-0,C6H10Cl2N2,,131
+II,,64.,Benzene sulfonyl chloride,Benzen sunphonyl clorua,98-09-9,C6H5ClO2S,,132
+II,,65.,"1,2-Benzo quinone","1,2-Benzo quinon",583-63-1,C6H4O2,,133
+II,,66.,"1,4-benzo quinone (p-benzoquinone)","1,4-Benzo quinon",106-51-4,C6H4O2,,134
+II,,67.,Benzo trichloride,Benzo triclorua,98-07-7,C7H5Cl3,,135
+II,,68.,Benzo trifluoride (Trifluorotoluene),Benzo triflorua,98-08-8,C7H5F3,,136
+II,,69.,"Benz(a) anthracene (1,2-Benzoanthracene)","Benz(a) anthracen (1,2-Benzoanthracen)",56-55-3,C18H12,,137
+II,,70.,"Chrysen (1,2-benzophenanthrene)","Chrysen (1,2-benzophenanthren)",218-01-9,C18H12,,138
+II,,71.,Benzoyl chloride,Benzoyl clorua,98-88-4,C7H5ClO,,139
+II,,72.,Benzoyl peroxide,Benzoyl peroxit,94-36-0,C14H10O4,,140
+II,,73.,Bis(chloro methyl) ether,Bis(clo metyl) ete,542-88-1,C2H4Cl2O,,141
+II,,74.,Boron tribromide,Bo tribromua,10294-33-4,BBr3,,142
+II,,75.,Boron trifluoride,Bo trifluorua,7637-07-2,BF3,,143
+II,,76.,Boron trifluoride acetic acid,Axit bo triflo axetic,7578-36-1,C2H4BF3O2,,144
+II,,77.,Boron trifluoride diethyl etherate,Bo triflo dietyl etherat,109-63-7,C4H10BF3O,,145
+II,,78.,Bromine monochloride,Brom clorua,13863-41-7,BrCl,,146
+II,,79.,Bromo acetone,Brom axeton,598-31-2,C3H5BrO,,147
+II,,80.,1-Bromo butane,1-Brom butan,109-65-9,C4H9Br,,148
+II,,81.,2-Bromo butane,2-Brom butan,78-76-2,C4H9Br,,149
+II,,82.,Bromo chlorodifluoro methane,Clo diflo brom metan,353-59-3,CF2ClBr,,150
+II,,83.,4-Bromo-2-(4-chloro phenyl)-1-ethoxy methyl-5-trifluoro methyl-1H-pyrrole-3-carbonitrile,4-Brom-2-(4-clophenyl)-1-ethoxy metyl-5-triflo metyl-1H-pyrrole-3-cacbonitril,122453-73-0,C15H11BrClF3N2O,,151
+II,,84.,"Ethane, 1 -bromo-2-ethoxy-",1-Bromo-2-ethoxy-etan,592-55-2,C4H9BrO,,152
+II,,85.,1-Bromo-2-methylpropane,1-Bromo-2-metyl propan,78-77-3,C4H9Br,,153
+II,,86.,2-Bromo-2-methylpropane,2-Bromo-2-metyl propan,507-19-7,C4H9Br,,154
+II,,87.,"2-Bromo-2-nitro-1,3-propanediol","2-Brom-2-nitro-1,3-propandiol",52-51-7,C3H6BrNO4,,155
+II,,88.,1-Bromo-3- methyl butane,1-Bromo-3-metyl butan,107-82-4,C5H11Br,,156
+II,,89.,Bromoacetic acid,Axit brom axetic,79-08-3,C2H3BrO2,,157
+II,,90.,Bromobenzene,Brom benzen,108-86-1,C6H5Br,,158
+II,,91.,Bromoethane,Etyl bromua,74-96-4,C2H5Br,,159
+II,,92.,Bromoform,Bromoform,75-25-2,CHBr3,,160
+II,,93.,Bromom ethane,Metyl bromit,74-83-9,CH3Br,,161
+II,,94.,2-Bromopentane,2-Brom-pentan,107-81-3,C5H11Br,,162
+II,,95.,2-Bromopropane,2- Brom propan,75-26-3,C3H7Br,,163
+II,,96.,3-Bromopropyne (Propargyl bromide),3-Brom propyn,106-96-7,C3H3Br,,164
+II,,97.,"1,3-Butadiene","1,3-Butadien",106-99-0,C4H6,,165
+II,,98.,"2,3-Butanedione (Diacetyl)","2,3-Butan dion (Diacetyl)",431-03-8,C4H6O2,,166
+II,,99.,n-Butanol,n-Butanol,71-36-3,C4H10O,,167
+II,,100.,sec-Butanol,sec-Butanol,78-92-2,C4H10O,,168
+II,,101.,tert-Butanol,Tert-butanol,75-65-0,C4H10O,,169
+II,,102.,Diketene (3-Butenoic acid),Diketen (3-Butenoic axit),674-82-8,C4H4O2,,170
+II,,103.,n-Butyl acetate,n-Butyl axetat,123-86-4,C6H12O2,,171
+II,,104.,Butyl acrylate,Butyl acrylat,141-32-2,C7H12O2,,172
+II,,105.,Butyl benzene,Butyl benzene,104-51-8,C10H14,,173
+II,,106.,N-Butyl chloroformate,N-butyl clo format,592-34-7,C5H9ClO2,,174
+II,,107.,Methyl tert-butyl ether,Metyl tert-butyl ete,1634-04-4,C5H12O,,175
+II,,108.,N-Butyl formate,N-butyl format,592-84-7,C5H10O2,,176
+II,,109.,Tert-Butyl isocyanate,Tert-butyl isoxyanat,1609-86-5,C5H9NO,,177
+II,,110.,Butyl mercaptan (Butanethiol),Butyl mercaptan (Butanethiol),109-79-5,C4H10S,,178
+II,,111.,N-Butyl methacrylate,N-butyl metacrylat,97-88-1,C8H14O2,,179
+II,,112.,Butyl methyl ether,Butyl metyl ete,628-28-4,C5H12O,,180
+II,,113.,Butyl nitrite,Butyl nitrit,544-16-1,C4H9NO2,,181
+II,,114.,Butyl propionate,Butyl propionat,590-01-2,C7H14O2,,182
+II,,115.,n-Butyl vinyl ether,n-Butyl vinyl ete,111-34-2,C6H12O,,183
+II,,116.,Tert-Butyl vinyl ether,Butyl vinyl ete,926-02-3,C6H12O,,184
+II,,117.,n-Butylamine,N-butylamin,109-73-9,C4H11N,,185
+II,,118.,n-Butylchloride,N- butyl clorua,109-69-3,C4H9Cl,,186
+II,,119.,Tert-Butylchloride,Tert-Butyl clorua,507-20-0,C4H9Cl,,187
+II,,120.,"1,2-Butylene oxide","1,2-Butylen oxit",106-88-7,C4H8O,,188
+II,,121.,n-Butyltrichlorosilane,n-Butyl triclo silan,7521-80-4,C4H9Cl3Si,,189
+II,,122.,"1,4-Butynediol","1,4-Butyn diol",110-65-6,C4H6O2,,190
+II,,123.,Butyraldehyde,Butyraldehit,123-72-8,C4H8O,,191
+II,,124.,Methyl n-butyrate,Metyl butyrat,623-42-7,C5H10O2,,192
+II,,125.,Butyric acid,Axit butyric,107-92-6,C4H8O2,,193
+II,,126.,Butyric anhydride,Butyric anhydrit,106-31-0,C8H14O3,,194
+II,,127.,Butyronitrile,Butyronitril,109-74-0,C4H7N,,195
+II,,128.,Butyryl chloride,Butyryl clorua,141-75-3,C4H7ClO,,196
+II,,129.,Cadmium fluoro borate,Cadimi tetraflo borat,14486-19-2,Cd(BF4)2,,197
+II,,130.,Cadmium selenide,Cadimi selenua,1306-24-7,CdSe,,198
+II,,131.,Cadmium telluride,Cadmi tellurua,1306-25-8,CdTe,,199
+II,,132.,Caesium nitrate,Ceri nitrat,7789-18-6,CsNO3,,200
+II,,133.,Calcium,Canxi,7440-70-2,Ca,,201
+II,,134.,Calcium carbide,Canxi cacbua,75-20-7,CaC2,,202
+II,,135.,Calcium chlorate,Canxi clorat,10037-74-3,Ca(ClO3)2,,203
+II,,136.,Calcium hypochlorite,Canxi hypoclorua,7778-54-3,Ca(ClO)2,,204
+II,,137.,Calcium nitrate,Canxi nitrat,10124-37-5,Ca(NO3)2,,205
+II,,138.,Calcium perchlorate,Canxi perclorat,13477-36-6,Ca(ClO4)2,,206
+II,,139.,Calcium peroxide,Canxi peroxit,1305-79-9,CaO2,,207
+II,,140.,Calcium resinate,Canxi resinat,9007-13-0,C40H58CaO4,,208
+II,,141.,Calcium silicide,Canxi silicua,12013-56-8,CaSi2,,209
+II,,142.,Carbon tetrachloride,Carbon tetraclorit,56-23-5,CCl4,,210
+II,,143.,Carbonyl fluoride,Cacbonyl florua,353-50-4,COF2,,211
+II,,144.,Cerium,Xeri,7440-45-1,Ce,,212
+II,,145.,Clopyralid,Clopyralit,1702-17-6,C6H3Cl2NO2,,213
+II,,146.,Cobalt (II) naphthenate,Coban (II) naphthenat,61789-51-3,C22H16CoO4,,214
+II,,147.,Copper (I) chloride,Đồng (I) clorua,7758-89-6,CuCl,,215
+II,,148.,Copper (II) chloride,Đồng (II) clorua,7447-39-4,CuCl2,,216
+II,,149.,Cresylic acid,Axit cresylic,1319-77-3,C7H8O,,217
+II,,150.,Crotonaldehyde,Butenal,123-73-9,C4H6O,,218
+II,,151.,Crotonic acid,Axit crotonic,107-93-7,C4H6O2,,219
+II,,152.,Cumene,Cumen,98-82-8,C9H12,,220
+II,,153.,Cyanamide,Xianamit,420-04-2,CH2N2,,221
+II,,154.,Cyanazine,Cyanazin,21725-46-2,C9H13ClN6,,222
+II,,155.,2-cyanopropan-2-ol (acetone cyanohydrin),2-Xyanopropan-2-ol,75-86-5,C4H7NO,,223
+II,,156.,Cyanuric chloride,Xyanuric clorua,108-77-0,C3N3Cl3,,224
+II,,157.,"1,3,5,7-cyclo octatetraene","1,3,5,7-Xyclo octatetraen",629-20-9,C8H8,,225
+II,,158.,Cyclobutane,Xyclobutan,287-23-0,C4H8,,226
+II,,159.,"1,5,9-Cyclod odecatriene","1,5,9-Xyclo dodecatrien",4904-61-4,C12H18,,227
+II,,160.,Cycloheptane,Xycloheptan,291-64-5,C7H14,,228
+II,,161.,Cycloheptatriene,Xycloheptatrien,544-25-2,C7H8,,229
+II,,162.,Cycloheptene,Xyclohepten,628-92-2,C7H12,,230
+II,,163.,Cyclohexane,Xyclohexan,110-82-7,C6H12,,231
+II,,164.,"Trans-cyclohexane-1,2-dicarboxylic anhydride","Trans-xyclohexan-1,2-dicacboxylic anhydrit",14166-21-3,C8H10O3,,232
+II,,165.,Cyclohexanone,Xyclohexanon,108-94-1,C6H10O,,233
+II,,166.,Cyclohexene,Xyclohexen,110-83-8,C6H10,,234
+II,,167.,Cyclohexyl acetate,Xyclohexyl axetat,622-45-7,C8H14O2,,235
+II,,168.,Cyclohexyl isocyanate,Xyclohexyl isocyanat,3173-53-3,C7H11NO,,236
+II,,169.,Cyclohexyl mercaptan,Xyclohexyl mercaptan,1569-69-3,C6H12S,,237
+II,,170.,Cyclopentane,Xyclopentan,287-92-3,C5H10,,238
+II,,171.,Cyclopentanol,Xyclopentanol,96-41-3,C5H10O,,239
+II,,172.,Cyclopentanone,Xyclopentanon,120-92-3,C5H8O,,240
+II,,173.,Cyclopentene,Xyclopenten,142-29-0,C5H8,,241
+II,,174.,Cyhexatin,Xyhexatin,13121-70-5,C18H34OSn,,242
+II,,175.,Chlo rambucil,Clo rambucil,305-03-3,C14H19CI2NO2,,243
+II,,176.,Chloric acid,Axit cloric,7790-93-4,HClO3,,244
+II,,177.,Chlorine,Clo,7782-50-5,Cl2,,245
+II,,178.,Chlorine trifluoride,Clo triflorua,7790-91-2,ClF3,,246
+II,,179.,2-Chloro acethanal,Clo axetandehit,107-20-0,C2H3ClO,,247
+II,,180.,"1 -Chloro-2,2,2-trifluoro ethane","1-Clo-2,2,2-triflo etan",75-88-7,C2H2ClF3,,248
+II,,181.,1-Chloro-2-chloromethyl-benzene,1-Clo-2-clometyl-benzen,611-19-8,C7H6Cl2,,249
+II,,182.,1-chloro-2-methyl benzene,1-Clo-2-metyl benzen,95-49-8,C7H7Cl,,250
+II,,183.,1 -Chloro-2-nitrobenzene,1-Clo-2-nitrobenzen,88-73-3,C6H4ClNO2,,251
+II,,184.,1-Chloro-3-chloromethyl-benzene,1-Clo-3-clometyl-benzen,620-20-2,C7H6Cl2,,252
+II,,185.,1-chloro-3-methyl benzene,1-Clo-3-metyl benzen,108-41-8,C7H7Cl,,253
+II,,186.,2-Chloro-3-methyl phenol,2-Clo-3-metyl phenol,608-26-4,C7H7ClO,,254
+II,,187.,4-Chloro-3-methyl phenol,4-Clo-3-metyl phenol,59-50-7,C7H7ClO,,255
+II,,188.,1-Chloro-3-nitrobenzene,1-Clo-3-nitrobenzen,121-73-3,C6H4ClNO2,,256
+II,,189.,1-Chloro-4-chloromethyl-benzene,1-Clo-4-clometyl-benzen,104-83-6,C7H6Cl2,,257
+II,,190.,1-chloro-4-methyl benzene,1-Clo-4-metyl benzen,106-43-4,C7H7Cl,,258
+II,,191.,2-Chloro-4-nitroaniline,2-Clo-4-nitroanilin,121-87-9,C6H5ClN2O2,,259
+II,,192.,Chloroacetic acid,Axit clo axetic,79-11-8,C2H3ClO2,,260
+II,,193.,Chloroacetone,Clo axeton,78-95-5,C3H5ClO,,261
+II,,194.,Chloroacetonitrile,Clo axetonitril,107-14-2,C2H2ClN,,262
+II,,195.,Chloroacetyl chloride,Cloaxetyl clorua,79-04-9,C2H2Cl2O,,263
+II,,196.,2-Chloroaniline,2-Clo anilin,95-51-2,C6H6ClN,,264
+II,,197.,3-Chloroaniline,3-Clo anilin,108-42-9,C6H6ClN,,265
+II,,198.,4-Chloroaniline,4-Clo anilin,106-47-8,C6H6ClN,,266
+II,,199.,Chlorobenzene,Cloanilin,108-90-7,C6H5Cl,,267
+II,,200.,Chlorobenzotri fluoride,Clo benzo triflorua,88-16-4,C7H4ClF3,,268
+II,,201.,Chloromethyl ethyl ether,Clo metyl etyl ete,3188-13-4,C3H7ClO,,269
+II,,202.,2-Chloro-N-(ethoxymethyl)-N-(2-ethyl-6-methylphenyl) acetamide,2-Clo-N-(ethoxy metyl)-N-(2-etyl-6-metyl phenyl) axetamit,34256-82-1,C14H20ClNO2,,270
+II,,203.,2-Chloro-N-isopropyl-N-phenyl acetamide,2-Clo-N-isopropyl-N-phenyl axetamit,1918-16-7,C11H14ClNO,,271
+II,,204.,3-Chloropropan-1-ol,3-Clo propanol-1,19210-21-0,C3H7ClO,,272
+II,,205.,Ethyl 2-chloropropionate,Etyl 2-clo propionat,535-13-7,C5H9ClO2,,273
+II,,206.,Methyl 2-chloropropionate,Metyl 2-clo propionat,17639-93-9,C4H7ClO2,,274
+II,,207.,2-Chloropropionic acid,Axit 2-clo propionic,598-78-7,C3H5ClO2,,275
+II,,208.,3-Chlorophenol,3-Clo phenol,108-43-0,C6H5ClO,,276
+II,,209.,4-Chlorophenol,4-Clo phenol,106-48-9,C6H5ClO,,277
+II,,210.,Chlorosilane,Clo silan,13465-78-6,ClH3Si,,278
+II,,211.,Chlorpyrifos,Clorpyrifos,2921-88-2,C9H11Cl3NO3PS,,279
+II,,212.,Decahydronaphthalene,Decahydro naphathalen,91-17-8,C10H18,,280
+II,,213.,N-Decane,N-decan,124-18-5,C10H22,,281
+II,,214.,Demeton,Demeton,126-75-0,C8H19O3PS2,,282
+II,,215.,"1,2-Di-(dimethyl amino) ethane","1,2-Di-(dimetyl amino) etan",110-18-9,C6H16N2,,283
+II,,216.,Diallylamine,Diallylamin,124-02-7,C6H11N,,284
+II,,217.,Diallylether,Diallyl ete,557-40-4,C6H10O,,285
+II,,218.,"1,2-Diamino benzene","1,2-Diamino benzen",95-54-5,C6H8N2,,286
+II,,219.,"1,3-Diamino benzene","1,3-Diamino benzen",108-45-2,C6H8N2,,287
+II,,220.,"1,4-Diamino benzene","1,4-Diamino benzen",106-50-3,C6H8N2,,288
+II,,221.,Diazinon,Diazinon,333-41-5,C12H21N2O3PS,,289
+II,,222.,Diazomethane,Diazometan,334-88-3,CH2N2,,290
+II,,223.,"1,2-Dibromo-3-chloro propane","1,2-Dibrom-3-clo propan",96-12-8,C3H5Br2Cl,,291
+II,,224.,Monomethyl-dibromo-diphenyl methane (Trade name: DBBT),Monometyl-dibrom-diphenyl metan,99688-47-8,C14H12Br2,,292
+II,,225.,Dibultyltin oxide,Di butyl oxit thiếc,818-08-6,C8H18OSn,,293
+II,,226.,Dibutyl amine,Di-n-butyl amin,111-92-2,C8H19N,,294
+II,,227.,Dibutyl amino ethanol,Dibutyl amino etanol,102-81-8,C10H23NO,,295
+II,,228.,Dibutyl ether,Dibutyl ete,142-96-1,C8H18O,,296
+II,,229.,"1,2-Dicloetylen","1,2-Diclo etylen",540-59-0,C2H2Cl2,,297
+II,,230.,Dicrotophos ((E)-2-Dimethyl carbamoyl-1-methyl vinyl dimethyl phosphate),Dicrotophos,141-66-2,C8H16NO5P,,298
+II,,231.,Dicyclo hexylamine,Dixyclohexyl amin,101-83-7,C12H23N,,299
+II,,232.,Dicyclo pentadiene,Dixyclopentadien,77-73-6,C10H12,,300
+II,,233.,Dichloro acetyl chloride,Diclo axetyl clorua,79-36-7,C2HCl3O,,301
+II,,234.,"3,4-Dichloro aniIine","3,4-Diclo anilin",95-76-1,C6H5Cl2N,,302
+II,,235.,"2,3-Dichloro aniline","2,3-Diclo anilin",608-27-5,C6H5Cl2N,,303
+II,,236.,"2,6-Dichloro aniline","2,6-Diclo anilin",608-31-1,C6H5Cl2N,,304
+II,,237.,"3,5-Dichloro aniline","3,5-Diclo anilin",626-43-7,C6H5Cl2N,,305
+II,,238.,"2,6-Dichloro benzonitrile","2,6-Diclo benzonitril",1194-65-6,C7H3Cl2N,,306
+II,,239.,"1,1-Dichloro ethane","1,1-Diclo etan",75-34-3,C2H4Cl2,,307
+II,,240.,Dichloro isocyanuric acid,Axit diclo isoxyanuric,2782-57-2,C3HCl2N3O3,,308
+II,,241.,"1,5-Dichloro pentane","1,5-Diclopentan",628-76-2,C5H10Cl2,,309
+II,,242.,"1,3-Dichloro propan-2-ol","1,3-Diclo propanol-2",96-23-1,C3H6Cl2O,,310
+II,,243.,"2,4-Dichloro phenol","2,4-Diclo phenol",120-83-2,C6H4Cl2O,,311
+II,,244.,"2,4-Dichloro phenyl isocyanate","2,4-Diclophenyl isoxyanat",2612-57-9,C7H3Cl2NO,,312
+II,,245.,"3,4-Dichloro phenyl isocyanate","3,4-Diclophenyl isoxyanat",102-36-3,C7H3Cl2NO,,313
+II,,246.,"3,5-Dichloro phenyl isocyanate","3,5-Diclo phenyl isoxyanat",34893-92-0,C7H3Cl2NO,,314
+II,,247.,"Nitrofen (2,4-Dichloro-1-(4-nitro phenoxy) benzene)",Nitrofen,1836-75-5,C12H7Cl2NO3,,315
+II,,248.,"1,1 -Dichloro-1-nitroethane","1,1-Diclo-1-nitroetan",594-72-9,C2H3Cl2NO2,,316
+II,,249.,Dichloroacetic acid,Axit diclo axetic,79-43-6,C2H2Cl2O2,,317
+II,,250.,"2,4-Dichloroaniline","2,4-Diclo anilin",554-00-7,C6H5Cl2N,,318
+II,,251.,"2,5-Dichloroaniline","2,5-Diclo anilin",95-82-9,C6H5Cl2N,,319
+II,,252.,o-Dichlorobenzene,O-diclo benzen,95-50-1,C6H4Cl2,,320
+II,,253.,"1,2-Dichloropropane","1,2-Diclo propan",78-87-5,C3H6Cl2,,321
+II,,254.,"1,3-Dichloropropene","1,3-Diclo propen",542-75-6,C3H4Cl2,,322
+II,,255.,"2,2-dichlorovinyl dimethyl phosphate","2,2-diclovinyl dimetyl photphat",62-73-7,C4H7Cl2O4P,,323
+II,,256.,Dichromium tris(chromate),Dicrom tris(­cromat),24613-89-6,Cr2(CrO4)3,,324
+II,,257.,Diethoxy methane,Dietoxymetan,462-95-3,C5H12O2,,325
+II,,258.,"3,3-Diethoxy propene","3,3-Dietoxy propen",3054-95-3,C7H14O2,,326
+II,,259.,Diethyl aminopropyl amine,Dietyl aminopropyl amin,109-55-7,C5H14N2,,327
+II,,260.,Diethyl benzene,Dietyl bezen,25340-17-4,C10H14,,328
+II,,261.,Diethyl cacbonate (ethyl carbonate),Dietyl cacbonat (etyl cacbonat),105-58-8,C5H10O3,,329
+II,,262.,Diethyl dichloro silane,Dietyl diclo silan,1719-53-5,C4H10Cl2Si,,330
+II,,263.,Diethyl phthalate (DEP）,Dietyl phthalat (DEP）,84-66-2,C12H14O4,,331
+II,,264.,Diethyl sulfide,Dietyl sunfit,352-93-2,C4H10S,,332
+II,,265.,"N, N-Diethylaminoetanol","N,N-dietyl amino etanol",100-37-8,C6H15NO,,333
+II,,266.,Diethylene triamine,Dietylen triamin,111-40-0,C4H13N3,,334
+II,,267.,"N, N-Diethylethylene diamine","N,N-Dietyl etylen diamin",100-36-7,C6H16N2,,335
+II,,268.,Diethylthiophosphoryl chloride,Dietyl thiophotphoryl clo,,C4H10ClO2PS,,336
+II,,269.,Diethylzinc,Dietyl kẽm,557-20-0,C4H10Zn,,337
+II,,270.,Difluoro phosphoric acid,Axit diflo photphoric,13779-41-4,HPO2F2,,338
+II,,271.,Difluoromethane,Diflo metan,75-10-5,CH2F2,,339
+II,,272.,Dihydropyran,"2,3-Dihydropyran",110-87-2,C5H8O,,340
+II,,273.,Diisobutyl ketone,Diisobutyl keton,108-83-8,C9H18O,,341
+II,,274.,Diisobutylene,Diisobutyllen,107-39-1,C8H16,,342
+II,,275.,Diisopropyl amine,Diisopropyla min,108-18-9,C6H15N,,343
+II,,276.,Diisopropyl ether,Diisopropyl ete,108-20-3,C6H14O,,344
+II,,277.,"Dimethyl-1,2-dibromo-2,2-dichlorethyl phosphate","Dimetyl-1,2-dibrom-2,2-diclo etyl photphat",300-76-5,C4H7Br2Cl2O4P,,345
+II,,278.,"N, N -Dimetylaminoethanol","N,N-dimetyl amino etanol và các muối proton hóa chất tương ứng",108-01-0,C4H11NO,,346
+II,,279.,"1,1-Dimethoxyethane","1,1-Dimetoxyetan",534-15-6,C4H10O2,,347
+II,,280.,Dimethoxymethane,Metylal,109-87-5,C3H8O2,,348
+II,,281.,Dimethyl acetylene,Dimetyl axetylen,503-17-3,C4H6,,349
+II,,282.,Dimethyl amino aceto nitril,Dimetyl amino axeto nitril,926-64-7,C4H8N2,,350
+II,,283.,2-Dimethyl amino ethyl acrylate,2-Dimetyla mino etyl acrylat,2439-35-2,C7H13NO2,,351
+II,,284.,Dimethyl benzyl amine,Benzyl dimetyl amin,103-83-3,C9H13N,,352
+II,,285.,Dimethyl carbamoyl chloride,Dimetyl amin carbonyl clorua,79-44-7,C3H6CINO,,353
+II,,286.,Dimethyl carbonate,Dimetyl cacbon,616-38-6,C3H6O3,,354
+II,,287.,Dimethyl diethoxy silane,Dimetyl dietoxy silan,78-62-6,C6H16O2Si,,355
+II,,288.,Dimethyl disulfide,Dimetyl disunfit,624-92-0,C2H6S2,,356
+II,,289.,"1,2-Dimethyl hydrazine","1,2-Dimetyl hydrazin",540-73-8,C2H8N2,,357
+II,,290.,Dimethyl nitros amine,Dimetyl nitro amin,62-75-9,C2H6N2O,,358
+II,,291.,"O,O-Dimethyl O-4-nitro-m-tolyl phosphorothioate","O,O-Dimetyl O-4-nitro-m-tolyl photphothioat",122-14-5,C9H12NO5PS,,359
+II,,292.,Dimethyl sulfide,Dimetyl sunfit,75-18-3,C2H6S,,360
+II,,293.,Dimethyl thiophosphoryl chloride,Dimetyl thiophotphoryl clorua,2524-03-0,C2H6ClO2PS,,361
+II,,294.,Dimethyl zinc,Dimetyl kẽm,544-97-8,C2H6Zn,,362
+II,,295.,"2,2-Dimethyl-2,3-dihydro-1-benzofuran-7-yl [(dibutylamino) sulfanyl]methyl carbamate","2,2-Dimetyl-2,3-dihydro-1-benzofuran-7-yl [(dibutylamino) sunfanyl] metyl cacbamat",55285-14-8,C20H32N2O3S,,363
+II,,296.,2-Dimethylaminoethyl methacrylate,2-Dimetyl-amino-ety-1-metacrylat,2867-47-2,C8H15NO2,,364
+II,,297.,"N, N-Dimethylaniline","N, N-Dimetyl anilin",121-69-7,C8H11N,,365
+II,,298.,"2,3-Dimethylbutane","2,3-Dimetyl butan",79-29-8,C6H14,,366
+II,,299.,"N,N-Dimethyl-p-toluidine","N,N-dimetyl-p-toluidin",99-97-8,C9H13N,,367
+II,,300.,"2,4-Dinitro aniline","2,4-Dinitro aniIin",97-02-9,C6H5N3O4,,368
+II,,301.,"1,2-Dinitro benzene","1,2-Dinitro benzen",528-29-0,C6H4N2O4,,369
+II,,302.,"1,3-Dinitro benzene","1,3-Dinitro benzen",99-65-0,C6H4N2O4,,370
+II,,303.,"2,3-Dinitro toluene","2,3-Dinitro toluen",602-01-7,C7H6N2O4,,371
+II,,304.,"2,6-Dinitro toluene","2,6-Dinitro toluen",606-20-2,C7H6N2O4,,372
+II,,305.,"3,4-Dinitro toluene","3,4-Dinitro toluen",610-39-9,C7H6N2O4,,373
+II,,306.,"2,4-Dinitro toluene (2,4-DNT)","Dinitro toluen (2,4-DNT)",121-14-2,C7H6N2O4,,374
+II,,307.,Dinitro toluene (mixed isomers),Dinitro toluen (hỗn hợp đồng phân),25321-14-6,C7H6N2O4,,375
+II,,308.,"2,4-Dinitrochloro benzene","2,4-Dinitro clobenzen",97-00-7,C6H3ClN2O4,,376
+II,,309.,Dinitrogen tetroxide,Dinitơ tetraoxit,10544-72-6,N2O4,,377
+II,,310.,"1,4-Dioxane","1,4-Dietylen dioxit",123-91-1,C4H8O2,,378
+II,,311.,Dioxathion (isomer mixture),Dioxathion (hỗn hợp đồng phân),78-34-2,C12H26O6P2S4,,379
+II,,312.,Dioxolane,Dioxolan,646-06-0,C3H6O2,,380
+II,,313.,Dipropyl ketone,Dipropyl keton,123-19-3,C7H14O,,381
+II,,314.,Dipropylamine,Dipropyl amin,142-84-7,C6H15N,,382
+II,,315.,Diphenyl dichloro silane,Diphenyl diclo silan,80-10-4,C12H10Cl2Si,,383
+II,,316.,"1,2-Diphenyl hydrazine","1,2-Diphenyl hydrazin",122-66-7,C12H12N2,,384
+II,,317.,"S, S -di-sec-Butyl-O-ethyl-phosphorodithioat","S, S -di-sec-Butyl-O-etyl-photpho dithioat",95465-99-9,C10H23O2PS2,,385
+II,,318.,Epibromo hydrin,Epibrom hydrin,3132-64-7,C3H5BrO,,386
+II,,319.,"1,2-Epoxy-3-ethoxy propane","1,2-Epoxy-3-ethoxy propan",4016-11-9,C5H10O2,,387
+II,,320.,Ethafluralin,Ethalfluralin,55283-68-6,C13H14F3N3O4,,388
+II,,321.,Ethanolamine,Etanol amin,141-43-5,C2H7NO,,389
+II,,322.,2-Ethoxy ethanol,2-Ethoxy etanol,110-80-5,C4H10O2,,390
+II,,323.,"6-Ethoxy-2,2,4-trimethyl-1,2-dihydroquinoline","6-Ethoxy-2,2,4-trimetyl-1,2-dihydro quinolin",91-53-2,C14H19NO,,391
+II,,324.,2-Ethoxyethyl acetate,2-Ethoxy etyl axetat,111-15-9,C6H12O3,,392
+II,,325.,Ethoxylated nonylphenol,Nonylphenol ethoxylat,9016-45-9,C19H32O3,,393
+II,,326.,Ethoxysulfuron,Ethoxy sunfuron,126801-58-9,C15H18N4O7S,,394
+II,,327.,Ethyl acetate,Etyl axetat,141-78-6,C4H8O2,,395
+II,,328.,Ethyl acrylate,Etyl acrylat,140-88-5,C5H8O2,,396
+II,,329.,Ethyl amyl ketone,Etyl amyl keton,541-85-5,C8H16O,,397
+II,,330.,Ethyl bromoacetate,Etyl brom axetat,105-36-2,C4H7BrO2,,398
+II,,331.,2-Ethyl butanol,2-Etyl butanol,137-32-6,C5H12O,,399
+II,,332.,Ethyl butyl ether,Etyl butyl ete,628-81-9,C6H14O,,400
+II,,333.,Ethyl carbamate,Etyl cacbamat,51-79-6,C3H7NO2,,401
+II,,334.,Ethyl chloracetate,Etyl clo axetat,105-39-5,C4H7ClO2,,402
+II,,335.,Ethyl chlorothioformate,Etyl clo thioformat,142-62-1,C6H12O2,,403
+II,,336.,Ethyl formate,Etyl format,109-94-4,C3H6O2,,404
+II,,337.,2-Ethyl hexyl chloro formate,2-Etyl hexyl clo format,24468-13-1,C9H17ClO2,,405
+II,,338.,Ethyl isobutyrate,Etyl isobutyrat,97-62-1,C6H12O2,,406
+II,,339.,Ethyl lactate,Etyl lactat,687-47-8,C5H10O3,,407
+II,,340.,Ethyl methacrylate,Etyl metacrylat,97-63-2,C6H10O2,,408
+II,,341.,Ethyl orthoformate,Etyl orthoformat,122-51-0,C7H16O3,,409
+II,,342.,Ethyl propionate,Etyl propionat,105-37-3,C5H10O2,,410
+II,,343.,Ethyl propyl ether,Etyl propyl ete,628-32-0,C5H12O,,411
+II,,344.,Ethyl trans-crotonate,Etyl trans-crotonat,623-70-1,C6H10O2,,412
+II,,345.,"Ethyl-(Z)-2-chlor-3-(2-chlor-5-(cyclohex-1-en-1,2-dicarbox-imido)phenyl) acrylate","Etyl-(Z)-2-clo-3-(2-clo-5-(xyclohex-1-en-1,2-dicacbox-imido)phenyl) acrylat",142891-20-1,C19H17Cl2NO4,,413
+II,,346.,"Ethyl-3-​(3,5-​dichlorphenyl)​-​5-methyl-​2,4-​dioxo-​5-​oxazolidincarboxylat","Etyl-3-​(3,5-​diclophenyl)​-​5-metyl-​2,4-​dioxo-​5-​oxazolidin cacboxylat",84332-86-5,C13H11Cl2NO5,,414
+II,,347.,N-Ethylaniline,N-etyl anilin,103-69-5,C8H11N,,415
+II,,348.,2-Ethylbutyl acetate,2-Etyl butyl axetat,10031-87-5,C8H16O2,,416
+II,,349.,2-Ethylbutyraldehyde,2-Etyl butyl andehit,97-96-1,C6H12O,,417
+II,,350.,Ethyldichlorosilane,Etyl diclo silan,1789-58-8,C2H6Cl2Si,,418
+II,,351.,Ethylen imine,Etylen imin,151-56-4,C2H5N,,419
+II,,352.,Ethylene,Etylen,74-85-1,C2H4,,420
+II,,353.,Ethylene thiourea,Etylen thiourea,96-45-7,C3H6N2S,,421
+II,,354.,2-Ethylhexylamine,2-Etylhexylamin,104-75-6,C8H19N,,422
+II,,355.,1-Ethylpiperidine,1-Etyl piperidin,766-09-6,C7H15N,,423
+II,,356.,Ethyltrichlorosilane,Etyl triclo silan,115-21-9,C2H5Cl3Si,,424
+II,,357.,"1,2,3,6-etrahydro benzaldehyde","1,2,3,6- Tetrahydrobenzal dehyt",100-50-5,C7H10O,,425
+II,,358.,Fenarimol,Fenarimol,60168-88-9,C17H12Cl2N2O,,426
+II,,359.,Fenthion,Fenthion,55-38-9,C10H15O3PS2,,427
+II,,360.,Ferrocerium,Ceri sắt,69523-06-4,---,,428
+II,,361.,Flufenoxuron,Flufenoxuron,101463-69-8,C21H11ClF6N2O3,,429
+II,,362.,Fluoro aniline,Flo anilin,348-54-9,C6H6NF,,430
+II,,363.,m-Fluoro toluene,m-Flo toluen,352-70-5,C7H7F,,431
+II,,364.,Fluorobenzene,Flo benzen,462-06-6,C6H5F,,432
+II,,365.,Fluoroboric acid,Axit floroboric,16872-11-0,HBF4,,433
+II,,366.,Fluorosulfonic acid,Axit flo sunphonic,7789-21-1,HSO3F,,434
+II,,367.,o-Fluorotoluene,o-Flo toluen,95-52-3,C7H7F,,435
+II,,368.,p-Fluorotoluene,p-Flo toluen,352-32-9,C7H7F,,436
+II,,369.,Flurprimidol,Flurprimidol,56425-91-3,C15H15F3N2O2,,437
+II,,370.,Fumaryl chloride,Fumaryl clorua,627-63-4,C4H2Cl2O2,,438
+II,,371.,Furfuryl alcohol,Furfuryl alcohol,98-00-0,C5H6O2,,439
+II,,372.,Furfurylamine,Furfurylamin,617-89-0,C5H7NO,,440
+II,,373.,Gallium,Gali,7440-55-3,Ga,,441
+II,,374.,Glycidaldehyde,Glycidaldehit,765-34-4,C3H4O2,,442
+II,,375.,Guanidine nitrate,Guanidin nitrat,506-93-4,CH6N4O3,,443
+II,,376.,Helium,Heli,7440-59-7,He,,444
+II,,377.,N-Heptanaldehyde (Heptanal),N-heptanaldehit (Heptanal),111-71-7,C7H14O,,445
+II,,378.,N-Heptane,N-Heptan,142-82-5,C7H16,,446
+II,,379.,2-Heptanone,2-Heptanon,110-43-0,C7H14O,,447
+II,,380.,Hexa methylene diamine,Hexametylen diamin,124-09-4,C6H16N2,,448
+II,,381.,Hexabromo cyclododecane,Hexabrom xyclododecan,134237-50-6,C12H18Br6,,449
+II,,,,,134237-51-7,,,450
+II,,,,,134237-52-8,,,451
+II,,382.,Hexachloro butadiene,Hexaclo butadien,87-68-3,C4Cl6,,452
+II,,383.,Alpha-hexachloro cyclohexane,Alpha-hexaclo xyclohexan,319-84-6,C6H6Cl6,,453
+II,,384.,Beta-hexachloro cyclohexane,Beta-hexaclo xyclohexan,319-85-7,C6H6Cl6,,454
+II,,385.,Hexachloro cyclopentadiene,Hexaclo xyclopentadien,77-47-4,C5Cl6,,455
+II,,386.,Hexachlorophene,Hexaclophen,70-30-4,C13H6Cl6O2,,456
+II,,387.,Hexadecyltrichloro silane,Hexadecyltriclo silan,5894-60-0,C16H33Cl3Si,,457
+II,,388.,"1,4-Hexadiene","1,4-Hexadien",592-45-0,C6H10,,458
+II,,389.,"1,5-Hexadiene","1,5-Hexadien",592-42-7,C6H10,,459
+II,,390.,"2,4-Hexadiene","2,4-Hexadien",592-46-1,C6H10,,460
+II,,391.,Hexafluoro phosphoric acid,Axit hexaflo photphoric,16940-81-1,HPF6,,461
+II,,392.,Hexafluoro silicic acid,Axit flo silicic,16961-83-4,H2SiF6,,462
+II,,393.,Hexafluoroacetone,Hexaflo axeton hydrat,684-16-2,C3OF6,,463
+II,,394.,Hexahydro-4-methylphthalic anhydride,Hexahydro-4-metyl phthalic anhydrit,19438-60-9,C9H12O3,,464
+II,,395.,Hexahydromethyl phthalic anhydride,Hexahydromethyl phthalic anhydrit,25550-51-0,C9H12O3,,465
+II,,,,,48122-14-1,,,466
+II,,,,,57110-29-9,,,467
+II,,396.,Hexahydrophthalic anhydride,Hexahydro phthalic anhydrit,85-42-7,C8H10O3,,468
+II,,397.,Hexametylentetramine,Hexametylen tetramin,100-97-0,C6H12N4,,469
+II,,398.,Hexamethyl phosphoro amide,Hexametyl photpho amit,680-31-9,C6H18N3OP,,470
+II,,399.,Hexamethyleneimine,Hexametylenimin,111-49-9,C6H13N,,471
+II,,400.,Hexanal,Hexaldehit,66-25-1,C6H12O,,472
+II,,401.,n-Hexane,n-Hexan,110-54-3,C6H14,,473
+II,,402.,1-Hexanol,1-Hexanol,111-27-3,C6H14O,,474
+II,,403.,2-Hexanone,2-Hexanon,591-78-6,C6H12O,,475
+II,,404.,1-Hexene,1-Hexen,592-41-6,C6H12,,476
+II,,405.,Hydrogen,Hydro,1333-74-0,H2,,477
+II,,406.,Hydrogen bromide,Hydro bromua,10035-10-6,HBr,,478
+II,,407.,Hydrogen fluoride,Hydro florua,7664-39-3,HF,,479
+II,,408.,Hydrogen iodide,Hydro iođua,10034-85-2,HI,,480
+II,,409.,Hydrogen peroxide,Hydro peroxit,7722-84-1,H2O2,,481
+II,,410.,Hydrogen selenide,Hydro selenua,7783-07-5,H2Se,,482
+II,,411.,Hydrogen sulphide,Hydro sunphua,7783-06-4,H2S,,483
+II,,412.,Hydroxy aceto nitrile (glycolonitrile),Hydroxy axeto nitril,107-16-4,C2H3NO,,484
+II,,413.,3-Hydroxy-2-butanone,3-Hydroxy-2-butanon,513-86-0,C4H8O2,,485
+II,,414.,1-Hydroxy-2-methylbenzene,1-Hydroxy-2-metyl benzen,95-48-7,C7H8O,,486
+II,,415.,1-hydroxy-2-nitrobenzene,1-hydroxy-2-nitrobenzen,88-75-5,C6H5NO3,,487
+II,,416.,1-Hydroxy-3-methyl benzene,1-Hydroxy-3-metyl benzen,108-39-4,C7H8O,,488
+II,,417.,1-hydroxy-3-nitrobenzene,1-hydroxy-3-nitrobenzen,554-84-7,C6H5NO3,,489
+II,,418.,1-Hydroxy-4-methylbenzene,1-Hydroxy-4-metyl benzen,106-44-5,C7H8O,,490
+II,,419.,1-hydroxy-4-nitrobenzene,1-hydroxy-4-nitrobenzen,100-02-7,C6H5NO3,,491
+II,,420.,Hydroxyl ammonium sulfate,Hydroxyl amin sunphat,10039-54-0,(NH3OH)2SO4,,492
+II,,421.,Hydroxylamine,Hydroxyl amin,7803-49-8,H3NO,,493
+II,,422.,Hydroxylamine hydrochloride,Hydroxylamin hydroclorua,5470-11-1,H3NOHCl,,494
+II,,423.,Indolacetic Aacid,Axit indolacetic,87-51-4,C10H8NO2,,495
+II,,424.,Iodine,Iot,7553-56-2,I2,,496
+II,,425.,Iodine monochloride,lod monoclorua,7790-99-0,ICl,,497
+II,,426.,Iodine pentafluoride,Iot pentaflorua,7783-66-6,IF5,,498
+II,,427.,"Butane, 2-iodo-","Butan, 2-iot-",513-48-4,C4H9I,,499
+II,,428.,Iodomethane,Metyl lotua,74-88-4,CH3I,,500
+II,,429.,Iodomethylpropane,Iot metyl propan,513-38-2,C4H9I,,501
+II,,430.,1-Iodopropane,1-Iotpropan,107-08-4,C3H7I,,502
+II,,431.,2-Iodopropane,2-Iotpropan,75-30-9,C3H7I,,503
+II,,432.,Iron(IIl) chloride,Sắt (III) clorua,7705-08-0,FeCl3,,504
+II,,433.,Isobutanol,Isobutanol,78-83-1,C4H10O,,505
+II,,434.,Isobutyl acetate,Isobutyl axetat,110-19-0,C6H12O2,,506
+II,,435.,Isobutyl acrylate,Isobutyl acrylat,106-63-8,C7H12O2,,507
+II,,436.,Isobutyl formate,Isobutyl format,542-55-2,C5H10O2,,508
+II,,437.,Isobutyl isobutyrate,Isobutyl isobutyrat,97-85-8,C8H16O2,,509
+II,,438.,Isobutyl methacrylate,Isobutyl metacrylat,97-86-9,C8H14O2,,510
+II,,439.,Isobutyl propionate,Isobutyl propionat,540-42-1,C7H14O2,,511
+II,,440.,Isobutylamine,Isobutylamin,78-81-9,C4H11N,,512
+II,,441.,Isobutyraldehyde,Isobutyraldehit,78-84-2,C4H8O,,513
+II,,442.,Isobutyric acid,Axit isobutyric,79-31-2,C4H8O2,,514
+II,,443.,Isobutyric anhydride,Isobutyric anhydrit,97-72-3,C8H14O3,,515
+II,,444.,Isobutyryl chloride,Isobutyryl chlorit,79-30-1,C4H7ClO,,516
+II,,445.,Isohexene,Isohexen,691-37-2,C6H12,,517
+II,,446.,Isooctene,Isooctan,11071-47-9,C8H16,,518
+II,,447.,Isopentene,Isopenten,513-35-9,C5H10,,519
+II,,448.,Isopropenyl acetate,Isopropenyl axetat,108-22-5,C5H8O2,,520
+II,,449.,Isopropenyl benzene,Isopropenyl benzen,98-83-9,C9H10,,521
+II,,450.,Isopropyl acetate,Isopropyl axetat,108-21-4,C5H10O2,,522
+II,,451.,Isopropyl alcohol,Isopropanol,67-63-0,C3H8O,,523
+II,,452.,Isopropyl butyrate,Isopropyl butyrat,638-11-9,C7H14O2,,524
+II,,453.,Isopropyl chloroacetate,Isopropyl cloaxetat,105-48-6,C5H9ClO2,,525
+II,,454.,Isopropyl isobutyrate,Isopropyl isobutyrat,617-50-5,C7H14O2,,526
+II,,455.,Isopropyl nitrate,Isopropyl nitrat,1712-64-7,C3H7NO3,,527
+II,,456.,Isopropyl propionate,Isopropyl propionat,637-78-5,C6H12O2,,528
+II,,457.,Isophorone diamine,Isophoron diamin,2855-13-2,C9H18N2O,,529
+II,,458.,Krypton,Krypton,7439-90-9,Kr,,530
+II,,459.,Lithium,Liti,7439-93-2,Li,,531
+II,,460.,Lithium hypochlorite,Liti hypoclorua,13840-33-0,LiClO,,532
+II,,461.,Lithium peroxide,Liti peroxit,12031-80-0,Li2O2,,533
+II,,462.,"Maned (carbamodithioic acid, N, N -1,2-ethanediylbis-manganese (2+) salt (1:1))","Maned (cacbamodithioic axit, N, N -1,2-etan diylbis-mangan (2+) muối (1:1))",12427-38-2,C4H6MnN2S4,,534
+II,,463.,Magnesium,Magie,7439-95-4,Mg,,535
+II,,464.,Magnesium nitrate,Magie nitrat,10377-60-3,Mg(NO3)2,,536
+II,,465.,Magnesium perchlorate,Magie peclorat,10034-81-8,Mg(ClO4)2,,537
+II,,466.,Magnesium peroxide,Magie peroxit,1335-26-8,MgO2,,538
+II,,467.,Magnesium silicide,Magie silicua,22831-39-6,Mg2Si,,539
+II,,468.,Manganese resinate,Mangan resinat,9008-34-8,C41H58O4Mg,,540
+II,,469.,Manganese (II) nitrate,Magan nitrat,10377-66-9,Mn (NO3)2,,541
+II,,470.,Mesityl oxide,Mesityl oxit,141-79-7,C6H10O,,542
+II,,471.,Metaldehyde,Metaldehit,108-62-3,C8H16O4,,543
+II,,472.,Methacryl aldehyde,Metacryl aldehit,78-85-3,C4H6O,,544
+II,,473.,Methacrylic acid,Axit metacrylic,79-41-4,C4H6O2,,545
+II,,474.,Methallyl alcohol,Methallyl alcohol,513-42-8,C4H8O,,546
+II,,475.,Methomyl,Methomyl,16752-77-5,C5H10O2N2S,,547
+II,,476.,2-Methoxy ethyl acetate,2-Methoxy etyl axetat,110-49-6,C5H10O3,,548
+II,,477.,1-Methoxy-2-propanol,1-Metoxy-2-propanol,107-98-2,C4H10O2,,549
+II,,478.,1-Methoxy-4-nitrobenzene,1-Methoxy-4-nitrobenzen,100-17-4,C7H7NO3,,550
+II,,479.,3-Methoxyaniline,3-Methoxy anilin,536-90-3,C7H9NO,,551
+II,,480.,2-Methoxyethanol,2-Methoxy etanol,109-86-4,C3H8O2,,552
+II,,481.,N-methyl acetamide,N-Metyl axetamit,79-16-3,C3H7NO,,553
+II,,482.,Methyl acetate,Metyl axetat,79-20-9,C3H6O2,,554
+II,,483.,Methyl allyl chloride,Metylallyl clo,563-47-3,C4H7Cl,,555
+II,,484.,N-Methyl aniline,N-metyl anilin,100-61-8,C7H9N,,556
+II,,485.,Alpha-Methyl benzyl alcohol,Alpha-metyl benzyl alcohol,13323-81-4,C8H10O,,557
+II,,486.,N-Methyl butyl amine,N-metyl butyl amin,110-68-9,C5H13N,,558
+II,,487.,2-methyl cyclo hexanone,2-metyl xyclo hexanon,583-60-8,C7H12O,,559
+II,,488.,3-methyl cyclohexanone,3-Metyl xyclohexanon,591-24-2,C7H12O,,560
+II,,489.,4-methyl cyclohexanone,4-Metyl xyclohexanon,589-92-4,C7H12O,,561
+II,,490.,Methyl cyclopentane,Metyl xyclopentan,96-37-7,C6H12,,562
+II,,491.,Methyl chloroacetate,Metyl clo axetat,96-34-4,C3H5ClO2,,563
+II,,492.,2-Methyl furan,2-Metyl furan,534-22-5,C5H6O,,564
+II,,493.,Methyl isobutyl carbinol,Metyl isobutyl carbinol,108-11-2,C6H14O,,565
+II,,494.,Methyl isobutyl ketone,Metyl isobutyl keton,108-10-1,C6H12O,,566
+II,,495.,Methyl isopropenyl ketone,Metyl isopropenyl keton,563-80-4,C5H10O,,567
+II,,496.,Methyl isovalerate,Metyl isovalerat,556-24-1,C6H12O2,,568
+II,,497.,"Methyl hydrazine (Hydrazine, methyl-)",Metyl hydrazin,60-34-4,CH6N2,,569
+II,,498.,Methyl methacrylate,Metyl metacrylat,80-62-6,C5H8O2,,570
+II,,499.,Methyl pentadiene,Metyl pentadien,926-56-7,C6H10,,571
+II,,500.,Methyl propionate,Metyl propionat,554-12-1,C4H8O2,,572
+II,,501.,Methyl propyl ether,Metyl propyl ete,557-17-5,C4H10O,,573
+II,,502.,Methyl phenyldichloro silane,Metyl phenyl diclosilan,149-74-6,C7H8Cl2Si,,574
+II,,503.,Alpha-methyl valeraldehyde,Alpha-Metyl valeraldehit,123-15-9,C6H12O,,575
+II,,504.,2-Methyl-2-pentanol,2-Metyl pentan-2-ol,590-36-3,C6H14O,,576
+II,,505.,Bis[tris(2-methyl-2-phenyl propyl)zinn] oxiy,Bis[tris(2-metyl-2-phenyl propyl)zinn] oxiy,13356-08-6,C60H78OSn2,,577
+II,,506.,Cymenel-methyl-4-(1-methy lethyl) benzene,Xymenel-metyl-4-(1-metyl etyl) benzen,99-87-6,C10H14,,578
+II,,507.,4-Methyl-4-mercaptopentan-2-one,4-Metyl-4-mercaptopentan-2-one,19872-52-7,C6H12OS,,579
+II,,508.,2-Methyl-5-ethyl pyridine,2-Metyl-5-etylpyridin,104-90-5,C8H11N,,580
+II,,509.,Methylamyl acetate,Metylamyl axetat,108-84-9,C8H16O2,,581
+II,,510.,Methylcyclohexane,Metyl xyclohexan,108-87-2,C7H14,,582
+II,,511.,Methylcyclohexanol,Metyl xyclo hexanol,25639-42-3,C7H14O,,583
+II,,512.,Methyldichlorosilane,Metyl diclo silan,75-54-7,CH4Cl2Si,,584
+II,,513.,4-Methylmorpholine,4-Metyl morpholin,109-02-4,C5H11NO,,585
+II,,514.,1-Methylpiperidine,1-Metyl piperidin,626-67-5,C6H13N,,586
+II,,515.,2-Methyltetrahydrofuran,2-Metyl tetrahydrofuran,96-47-9,C5H10O,,587
+II,,516.,Glycerol alpha-monochlorohydrin,Glycerol alpha-monoclo hydrin,96-24-2,C3H7ClO2,,588
+II,,517.,Morpholine,Morpholin,110-91-8,C4H9NO,,589
+II,,518.,"Ethyl-N-[(2,3-dihydro-2,2-dimethyl-7-benzofuranyloxy-carbonyl) methylaminothio]-N-isopropyl-beta-alaninat","Etyl-N-[(2,3-dihydro-2,2-dimetyl-7-benzo furanyloxy-cacbonyl) metylaminothio]-N-isopropyl-beta-alaninat",82560-54-1,C20H30N2O5S,,590
+II,,519.,Di-n-amyl amine,Di-n-amyl amin,2050-92-2,C10H23N,,591
+II,,520.,Naphthalene,Naphthalen,91-20-3,C10H8,,592
+II,,521.,1-naphthyl methylcarbamate,1-naphtyl metyl cacbamat,63-25-2,C12H11NO2,,593
+II,,522.,Alpha-naphthyl thiourea,Alpha-naphtyl thiourea,86-88-4,C11H10N2S,,594
+II,,523.,Neon,Neon,7440-01-9,Ne,,595
+II,,524.,Nicotine salicylate,Nicotin salicylat,29790-52-1,C17H20N2O3,,596
+II,,525.,Nicotine sulfate (1-1-Methyl-2-(3-pyridyl)-pynolidine sulfate),Nicotin sunfat,65-30-5,C20H30N4O4S,,597
+II,,526.,Nitric acid,Axit nitric,7697-37-2,HNO3,,598
+II,,527.,2-Nitroaniline,2-Nitroanilin,88-74-4,C6H6N2O2,,599
+II,,528.,3-Nitroaniline,3-Nitroanilin,99-09-2,C6H6N2O2,,600
+II,,529.,4-Nitroaniline,4-Nitroanilin,100-01-6,C6H6N2O2,,601
+II,,530.,Nitrobenzene,Nitrobenzen,98-95-3,C6H5NO2,,602
+II,,531.,3-Nitrobenzene sulfonic acid,3-Nitrobenzen sunphonic axit,98-47-5,C6H5NO5S,,603
+II,,532.,4-Nitrobenzene sulfonic acid,4-nitro benzen sunphonic axit,138-42-1,C6H5NO5S,,604
+II,,533.,Sodium 3-nitrobenzene sulphonate,Axit nitrobenzen sunphonic,127-68-4,C6H4NNaO5S,,605
+II,,534.,p-Nitrochlorobenzene,p-Nitro clo benzen,100-00-5,C6H4ClNO2,,606
+II,,535.,Nitrogen,Nitơ,7727-37-9,N2,,607
+II,,536.,Nitrogen trifluoride,Nitrotriflorua,7783-54-2,NF3,,608
+II,,537.,2-Nitronaphthalene,2- Nitronaphthalen,581-89-5,C10H7NO2,,609
+II,,538.,1-Nitronaphthalene,1-Nitronaphthalen,86-57-7,C10H7O2N,,610
+II,,539.,1-nitropropane,1-nitropropan,108-03-2,C3H7NO2,,611
+II,,540.,2-Nitropropane,2-Nitropropan,79-46-9,C3H7NO2,,612
+II,,541.,P-Nitrosodimethyl aniline,P-Nitrosodimetyl anilin,138-89-6,C8H10N2O,,613
+II,,542.,Nitrosyl sulfuric acid,Axit nitrosyl sunphuric,7782-78-7,NOHSO4,,614
+II,,543.,Nonane,Nonan,111-84-2,C9H20,,615
+II,,544.,Nonylphenol,Nonylphenol,25154-52-3,C15H24O,,616
+II,,,,,104-40-5,,,617
+II,,,,,84852-15-3,,,618
+II,,545.,N-(Methoxy-methyl sulfanylphosphoryl)acetamide,N-(Methoxy-metyl sunfanyl photphoryl) axetamit,30560-19-1,C4H10NO3PS,,619
+II,,546.,"N, N'-[(Methylimino) dimethylidyne]di-2,4-xylidine","N, N'-[(Metylimino) dimetylidyn]di-2,4-xylidin",33089-61-1,C19H23N3,,620
+II,,547.,"2,5-Norbornadiene","2,5-Norbornadien (Dicyclo heptadien)",121-46-0,C7H8,,621
+II,,548.,Di-n-propyl ether,Di-n-propyl ete,111-43-3,C6H14O,,622
+II,,549.,Tri-o-cresyl phosphate (TOCP),Tri-o-cresyl phosphat (TOCP),78-30-8,C21H21O4P,,623
+II,,550.,Ocryl aldehit (ethyl hexadehyd),Ocryl aldehit (etyl hexadehyt),124-13-0,C8H16O,,624
+II,,551.,Octabromodiphenyl ether,Octabrom diphenyl ete,32536-52-0,C12H2Br8O,,625
+II,,552.,Octafluorocyclobutane,Octaflo xyclobutan,115-25-3,C4F8,,626
+II,,553.,Octane,Octan,111-65-9,C8H18,,627
+II,,554.,Oxadiargyl,Oxadiargyl,39807-15-3,C15H14Cl2N2O3,,628
+II,,555.,Oxygen,Oxy,7782-44-7,O2,,629
+II,,556.,Oxygen difluoride,Oxy diflorua,7783-41-7,F2O,,630
+II,,557.,Paraldehyde,Paraldehyt,123-63-7,C6H12O3,,631
+II,,558.,Pentaborane,Pentaboran,19624-22-7,B5H9,,632
+II,,559.,Pentachloroethane,Pentaclo etan,76-01-7,C2HCl5,,633
+II,,560.,Pentachloronaphthalene,Pentaclo naphthalen,1321-64-8,C10H3Cl5,,634
+II,,561.,pentachloronitrobenzene,Pentaclo nitro benzen,82-68-8,C6Cl5NO2,,635
+II,,562.,Pentametylheptane (Isododecane),Pentametyl heptan (Isododecan),31807-55-3,C12H26,,636
+II,,563.,Pentanaldehyde,Valeraldehit,110-62-3,C5H10O,,637
+II,,564.,"Pentane-2,4-dione (Acetylacetone)","Pentan-2,4-dion (Axetylaxeton)",123-54-6,C5H8O2,,638
+II,,565.,1-Pentanol,1-Pentanol,71-41-0,C5H12O,,639
+II,,566.,2-Pentanol,2-Pentanol,6032-29-7,C5H12O,,640
+II,,567.,2-Pentanone,2-Pentanon,107-87-9,C5H10O,,641
+II,,568.,3-Pentanone,3-Pentanon,96-22-0,C5H10O,,642
+II,,569.,Pentazinc chromate octahydroxide,Penta kẽm cromat octahydroxit,49663-84-5,Zn5(OH)8CrO4,,643
+II,,570.,1-Pentyl nitrate,1-Pentyl nitrat,1002-16-0,C5H11NO3,,644
+II,,571.,Pentylamine,N-amylamin,110-58-7,C5H13N,,645
+II,,572.,N-pentyl-isopentyl phthalate,N-Pentyl-isopentyl phthalat,776297-69-9,C18H26O4,,646
+II,,573.,Perchloric acid,Axit percloric,7601-90-3,HClO4,,647
+II,,574.,Perchloryl fluoride,Flo percloryl,7616-94-6,FClO3,,648
+II,,575.,α-picoline (2-Methylpyridine),α-picolin (2-Metyl pyridin),52962-96-6,C6H7N,,649
+II,,576.,β-picoline (3-Methylpyridine),β-picolin (3-Metyl pyridin),108-99-6,C6H7N,,650
+II,,577.,α - pinene,α - Pinen,80-56-8,C10H16,,651
+II,,578.,Piperazine,Piperazin,110-85-0,C4H10N2,,652
+II,,579.,Potassium,Kali,7440-09-7,K,,653
+II,,580.,Potassium bromate,Kali bromat,7758-01-2,KBrO3,,654
+II,,581.,Potassium fluoride,Kali florua,7789-23-3,KF,,655
+II,,582.,Potassium hexachloro platinate (IV),Kali hexaclo platinat (IV),16921-30-5,K2PtCl6,,656
+II,,583.,Potassium hexafluoro silicate,Kali hexaflo silicat,16871-90-2,K2SiF6,,657
+II,,584.,Potassium hydrogen sulfate,Kali bisulfat,7646-93-7,KHSO4,,658
+II,,585.,Potassium hydroxide,Kali hydroxit,1310-58-3,KOH,,659
+II,,586.,Potassium nitrite,Kali nitrit,7758-09-0,KNO2,,660
+II,,587.,Potassium oxide,Kali monoxit,12136-45-7,K2O,,661
+II,,588.,Potassium persulfate,Kali persunphat,7727-21-1,K2S2O8,,662
+II,,589.,"1,3-Propane sultone","1,3-Propane sultone",1120-71-4,C3H6O3S,,663
+II,,590.,1-Propanethiol,1-Propanthiol,107-03-9,C3H8S,,664
+II,,591.,Propanil,Propanil,709-98-8,C9H9Cl2NO,,665
+II,,592.,Propan-1-ol,Propan-1-ol,71-23-8,C3H8O,,666
+II,,593.,Propanoic acid,Axit propionic,79-09-4,C3H6O2,,667
+II,,594.,Allyl amine (2-Propen-1-amine),Allyl amin,107-11-9,C3H7N,,668
+II,,595.,Acrolein (2-Propenal),Acrolein,107-02-8,C3H4O,,669
+II,,596.,Propionaldehyde,Propionaldehyt,123-38-6,C3H6O,,670
+II,,597.,Propionic anhydride,Propionic anhydrit,123-62-6,C6H10O3,,671
+II,,598.,Propionyl chloride,Propionyl clorua,79-03-8,C3H5ClO,,672
+II,,599.,Propisochlor,Propisochlor,86763-47-5,C15H22ClNO2,,673
+II,,600.,Propyl acetate,Propyl axetat,109-60-4,C5H10O2,,674
+II,,601.,N-Propyl benzene,N-Propyl benzen,103-65-1,C9H12,,675
+II,,602.,1-Propyl bromide,1-Brom propan,106-94-5,C3H7Br,,676
+II,,603.,n-Propyl chloride,1-Clo propan,540-54-5,C3H7Cl,,677
+II,,604.,Propyl formate,Propyl format,110-74-7,C4H8O2,,678
+II,,605.,N-Propyl isocyanate,N-Propyl isoxyanat,110-78-1,C4H7NO,,679
+II,,606.,"1,2-Propylene diamine","1,2-Propylendiamin",78-90-0,C3H10N2,,680
+II,,607.,Propylene tetramer (Tetrapropylen),Propylen tetram (Tetrapropylen),6842-15-5,C12H24,,681
+II,,608.,Propyltrichlorosilane,Propyl triclo silan,141-57-1,C3H7Cl3Si,,682
+II,,609.,Pyrazophos,Pyrazophos,13457-18-6,C14H20N3O5PS,,683
+II,,610.,Pyridine,Pyridin,110-86-1,C5H5N,,684
+II,,611.,Pyrrolidine,Pyrolidin,123-75-1,C4H9N,,685
+II,,612.,Phenacyl chloride,Clo axetophenon,532-27-4,C8H7ClO,,686
+II,,613.,Phenetidine,Phenetidin,156-43-4,C8H11NO,,687
+II,,614.,Phenolsulfonic acid,Axit phenol sunphonic,1333-39-7,C6H6O4S,,688
+II,,615.,N-Phenyl aniline,N-Phenyl anilin,122-39-4,C12H11N,,689
+II,,616.,Phenyl hydrazine,Phenyl hydrazin,100-63-0,C6H8N2,,690
+II,,617.,Phenyl trichloro silane,Phenyl triclo silan,98-13-5,C6H5Cl3Si,,691
+II,,618.,Phenylphosphorus Dichloride,Phenyl photpho diclo,644-97-3,C6H5Cl2P,,692
+II,,619.,Phenylphosphorus Thiodichloride,Phenyl photpho thio diclo,3497-00-5,C6H5Cl2PS,,693
+II,,620.,Phosalone,Phosalon,2310-17-0,C12H15ClNO4PS2,,694
+II,,621.,Phosphoric acid,Axit photphoric,7664-38-2,H3PO4,,695
+II,,622.,"Phosphorus (White, yellow, red)","Photpho (trắng, vàng, đỏ)",37723-14-0,P,,696
+II,,623.,Phosphorus pentasulfide,Photpho pentasunfua,1314-80-3,P2S5,,697
+II,,624.,Phosphorus pentoxide,Photpho pentoxit,1314-56-3,P2O5,,698
+II,,625.,Phosphorus sesquisulfide,Photpho sesquisunfua,1314-85-8,P4S3,,699
+II,,626.,Phthalic anhydride,Phthalic anhydrit,85-44-9,C8H4O3,,700
+II,,627.,Quinoline,Quinolin,91-22-5,C9H7N,,701
+II,,628.,Resorcinol,Resorcinol,108-46-3,C6H6O2,,702
+II,,629.,Rotenone,Rotenon,83-79-4,C23H22O6,,703
+II,,630.,"N-sec-Butyl-4-tert-butyl-2,6-dinitroanilin","N-Sec-butyl-4-tert-butyl-2,6-dinitro anilin",33629-47-9,C14H21O4N3,,704
+II,,631.,Selenic acid,Axit selenic,7783-08-6,H2SeO4,,705
+II,,632.,Selenious acid,Axit selenơ,7783-00-8,H2SeO3,,706
+II,,633.,Selenium (powder),Selen (dạng bột),7782-49-2,Se,,707
+II,,634.,Selenium dioxide,Selen dioxit,7746-08-4,SeO2,,708
+II,,635.,Selenium disulfide,Selen disunfua,7488-56-4,SeS2,,709
+II,,636.,Selenium oxychloride,Selen oxyclorit,7791-23-3,SeOCl2,,710
+II,,637.,Silicon,Silic,7440-21-3,Si,,711
+II,,638.,Silicon tetrachloride,Silicon tetraclorua,10026-04-7,SiCl4,,712
+II,,639.,Silicon tetrafluoride,Silicon tetraflorua,7783-61-1,SiF4,,713
+II,,640.,Silver nitrate,Bạc nitrat,7761-88-8,AgNO3,,714
+II,,641.,Silvex,Silvex,93-72-1,C9H7Cl3O3,,715
+II,,642.,Simazine,Simazin,122-34-9,C7H12ClN5,,716
+II,,643.,"Demeton-s-methyl (S-2-Ethyl thioethyl O, O-dimethyl phosphorothioate)","Demeton-s-metyl (S-2-Etyl thioetyl O, O-dimetyl photphorothioat)",919-86-8,C6H15O3PS2,,717
+II,,644.,Sodium,Natri,7440-23-5,Na,,718
+II,,645.,Sodium aluminate,Natri aluminat,1302-42-7,NaAlO2,,719
+II,,646.,Sodium aluminium hydride,Natri nhôm hydrua,13770-96-2,NaAlH4,,720
+II,,647.,Sodium bromate,Natri bromat,7789-38-0,NaBrO3,,721
+II,,648.,Sodium chlorite,Natri clorit,7758-19-2,NaClO2,,722
+II,,649.,Sodium chloroacetate,Natri clo axetat,3926-62-3,C2H3ClNaO2,,723
+II,,650.,Sodium dithionite,Natri đithionit,7775-14-6,Na2S2O4,,724
+II,,651.,Sodium fluoride,Natri florua,7681-49-4,NaF,,725
+II,,652.,Sodium fluorosilicate,Natri flo silicat,16893-85-9,Na2SiF6,,726
+II,,653.,Sodium hydrogendifluoride,Natri hydrodiflorua,1333-83-1,NaHF2,,727
+II,,654.,Sodium hydrosulfide,Natri hydrosunfua,16721-80-5,NaHS,,728
+II,,655.,Sodium hydroxide,Natri hydroxit,1310-73-2,NaOH,,729
+II,,656.,Sodium hypochlorite,Natri hypoclorit,7681-52-9,NaClO,,730
+II,,657.,Sodium metasilicate,Natri silicat,6834-92-0,Na2SiO3,,731
+II,,658.,Sodium methylate,Natri metylat,124-41-4,CH3NaO,,732
+II,,659.,Sodium oxide,Natri oxit,1313-59-3,Na2O,,733
+II,,660.,Sodium perborate,Natri perborat,7632-04-4,NaBO3,,734
+II,,661.,Sodium perchlorate,Natri perclorat,7601-89-0,NaClO4,,735
+II,,662.,Sodium permanganate,Natri pemanganat,10101-50-5,NaMnO4,,736
+II,,663.,Sodium persulfate,Natri persunphat,7775-27-1,Na2S2O8,,737
+II,,664.,Sodium sulfide2,Natri sunfua,1313-82-2,Na2S,,738
+II,,665.,Sodium vanadate,Natri vanadat,13718-26-8,NaVO3,,739
+II,,666.,Stibine (antimony hydril),Stibin (antimony hydril),7803-52-3,SbH3,,740
+II,,667.,Strontium nitrate,Stronti nitrat,10042-76-9,Sr(NO3)2,,741
+II,,668.,Strontium peroxide,Stronti peroxit,1314-18-7,SrO2,,742
+II,,669.,Strychnine sulfate,Strychnin sunphat,60-41-3,C21H22N2O2.0.5H2SO4,,743
+II,,670.,Sulfur,Lưu huỳnh,7704-34-9,S,,744
+II,,671.,Sulfur dioxide,Lưu huỳnh dioxit,7446-09-5,SO2,,745
+II,,672.,Sulfur hexafluoride,Lưu huỳnh hexaflorua,2551-62-4,SF6,,746
+II,,673.,Sulfuryl fluoride,Sunphuryl florua,2699-79-8,SO2F2,,747
+II,,674.,S-(4-Chlorobenzyl) diethylcarbamothioate,S-(4-Clobenzyl) dietyl cacbamothioat,28249-77-6,C12H16ClNOS,,748
+II,,675.,"S-[2-(Ethylsulfinyl) ethyl] O, O-dimethyl phosphorothioate","S-[2-(Etyl sunfinyl) etyl] O,O-dimetyl photphothioat",301-12-2,C6H15O4PS2,,749
+II,,676.,"S-2-Ethylthioethyl O, O-dimethyl phosphorodithioate","S-2-Etylthio etyl O, O-dimetyl photphodithioat",640-15-3,C6H15O2S3P,,750
+II,,677.,Technazene,Technazen,117-18-0,C6HCl4NO2,,751
+II,,678.,Terpene hydrocarbon,Terpen hydrocacbon,68956-56-9,C10H16,,752
+II,,679.,Terpinolene,Terpinolen,586-62-9,C10H16,,753
+II,,680.,"5-tert-Butyl-2,4,6-trinitro-m-xylene","5-Tert-Butyl-2,4,6-trinitro-m-xylen",81-15-2,C12H15N3O6,,754
+II,,681.,"2-tert-Butyl-4,6-dinitrophenol","2-Tert-butyl-4,6-dinitrophenol",1420-07-1,C10H12N2O5,,755
+II,,682.,Tetrabromomethane,Cacbon tetrabromit,558-13-4,CBr4,,756
+II,,683.,"Dimethyl 2,3,5,6-tetrachloro benzene-1,4-dicarboxylate","Dimetyl 2,3,5,6-tetraclo benzen-1,4-dicacboxylat",1861-32-1,C10H6Cl4O4,,757
+II,,684.,Monomethyl-Tetrachlorodiphenyl methane (Trade name: Ugilec 141),Monometyl-Tetraclodiphenyl metan,76253-60-6,C14H12Cl4,,758
+II,,685.,"1,1,1,2-Tetrachloroethane","1,1,1,2-Tetraclo etan",630-20-6,C2H2Cl4,,759
+II,,686.,"1,1,2,2-Tetrachloroethane","1,1,2,2-Tetraclo etan",79-34-5,C2H2Cl4,,760
+II,,687.,"2,3,4,6-Tetrachlorophenol","2,3,4,6-Tetraclo phenol",58-90-2,C6H2Cl4O,,761
+II,,688.,Tetraethyl enepent amine,Tetraetyl enpent amin,112-57-2,C8H23N5,,762
+II,,689.,Tetraethyl silicate,Tetraetyl silicat,78-10-4,C8H20O4Si,,763
+II,,690.,Tetrafluoromethane,Tetraflo metan,75-73-0,CF4,,764
+II,,691.,Tetrahydro thiophene (thiolan),Tetrahydro thiophen (thiolan),110-01-0,C4H8S,,765
+II,,692.,"1,2,3,6-Tetrahydro-1-methyl-4-phenyl pyridine","1,2,3,6-Tetrahydro-1-metyl-4-phenyl pyritin",28289-54-5,C12H15N,,766
+II,,693.,Tetrahydrofuran,Tetrahydrofuran,109-99-9,C4H8O,,767
+II,,694.,2-Tetrahydrofurfuryl amine,2-Tetrahydro furfuryl amin,4795-29-3,C5H11NO,,768
+II,,695.,Tetrahydrophthalic anhydride,Tetrahydrophthalic anhydrit,85-43-8,C8H8O3,,769
+II,,696.,Tetramethyiammonium hydroxide,Tetrametyl amonni hydroxit,75-59-2,C4H13NO,,770
+II,,697.,Tetrapropyl orthotitanate,Tetrapropyl orthotitanat,3087-37-4,C12H28O4Ti,,771
+II,,698.,Titanium,Titan,7440-32-6,Ti,,772
+II,,699.,Titanium hydride,Titan hydrua,7704-98-5,TiH2,,773
+II,,700.,o-Tolidine,O-tolidin,119-93-7,C14H16N2,,774
+II,,701.,o-Tolidine dihydrochloride,O-tolidin dihydro clo,612-82-8,C14H18Cl2N2,,775
+II,,702.,Tolylfluanid,Tolylfluanid,731-27-1,C10H13Cl2FN2O2S2,,776
+II,,703.,Tungsten hexafluoride,Vonfram hexaflorua,7783-82-6,WF6,,777
+II,,704.,Thallium nitrate,Tali nitrat,10102-45-1,TlNO3,,778
+II,,705.,Thallium sulfate,Tali sunphat,7446-18-6,Tl2(SO4),,779
+II,,706.,Thioethylene glycol,Thioethylene glycol,60-24-2,C2H6OS,,780
+II,,707.,Thioglycolic acid,Axit thioglycolic,68-11-1,C2H4O2S,,781
+II,,708.,Thiophene,Thiophen,110-02-1,C4H4S,,782
+II,,709.,Thiourea,Thiourea,62-56-6,CH4N2S,,783
+II,,710.,Thiourea dioxide,Thiourea dioxit,1758-73-2,CH4O2N2S,,784
+II,,711.,Thorine sodium,Thorin natri,132-33-2,C16H11AsN2Na3O10S2,,785
+II,,712.,Thorium nitrate,Thori nitrat,13823-29-5,Th(NO3)4,,786
+II,,713.,Thymol,Thymol,89-83-8,C10H14O,,787
+II,,714.,Triallylamine,Triallyl amin,102-70-5,C9H15N,,788
+II,,715.,Tributyl tin acetate,Tributyl axetat thiếc,56-36-0,C14H30O2Sn,,789
+II,,716.,Tributyl tin laurate,Tributyl laurat thiếc,3090-36-6,C24H50O2Sn,,790
+II,,717.,Tricyclazole,Tricyclazol,41814-78-2,C9H7N3S,,791
+II,,718.,"1-Tricyclohexylstannyl-1,2,4-triazol","1-Trixyclo hexylstannyl-1,2,4-triazol",41083-11-8,C20H35N3Sn,,792
+II,,719.,"1,2,3-Trichlorbenzene","1,2,3-Triclo benzen",87-61-6,C6H3Cl3,,793
+II,,720.,"1,2,4-Trichlorbenzene","1,2,4-Triclo benzen",120-82-1,C6H3Cl3,,794
+II,,721.,"1,3,5-Trichlorbenzene","1,3,5-Triclo benzen",108-70-3,C6H3Cl3,,795
+II,,722.,Trichlorfon,Triclofon,52-68-6,C4H8Cl3O4P,,796
+II,,723.,Trichloro isocyanuric acid,Axit triclo isoxyanuric,87-90-1,C3Cl3N3O3,,797
+II,,724.,Trichloroacetic acid,Axit triclo axetic,76-03-9,C2HCl3O2,,798
+II,,725.,Trichlorobutene,Triclobuten,2431-50-7,C4H5Cl3,,799
+II,,726.,"1,1,1-Trichloroethane","1,1,1-Triclo etan",71-55-6,C2H3Cl3,,800
+II,,727.,"2,4,6-Trichlorophenol","2,4,6-Triclophenol",88-06-2,C6H3Cl3O,,801
+II,,728.,Triethyl borate,Trietyl borat,150-46-9,C6H15BO3,,802
+II,,729.,Triethyl tin sulfate,Trietyl thiếc sunphat,57-52-3,C12H30O4SSn2,,803
+II,,730.,Triethylamine,Triethyl amin,121-44-8,C6H15N,,804
+II,,731.,Triethylenetetramine,Trietyl enetetramin,112-24-3,C6H18N4,,805
+II,,732.,Trifluoroacetic acid,Axit triflo axetic,76-05-1,C2HF3O2,,806
+II,,733.,Trifluoromethane (Fluoroform),Triflo metan (Floform),75-46-7,CHF3,,807
+II,,734.,Trifluralin,Trifluralin,1582-09-8,C13H16F3N3O4,,808
+II,,735.,Triisobutylene,Triisobutylen,7756-94-7,C12H24,,809
+II,,736.,Triisopropyl borate,Triisopropyl borat,5419-55-6,C9H21BO3,,810
+II,,737.,"1,3,5-Trimetyl benzene","1,3,5- Trimetyl benzen",108-67-8,C9H12,,811
+II,,738.,Trimethyl borate,Trimetyl borat,121-43-7,C3H9BO3,,812
+II,,739.,"3,3,5-Trimethyl cyclohexylamine","3,3,5-Trimetyl xyclohexyl amin",15901-42-5,C9H19N,,813
+II,,740.,Trimethylacetyl chloride,Trimetyl axetyl chlorit,3282-30-2,C5H9ClO,,814
+II,,741.,Triorganostannic compounds other than tributyltin compounds,Hợp chất Triorganostannic khác với tributyl thiếc,,---,,815
+II,,742.,Tripropylamine,Tripropyl amin,102-69-2,C9H21N,,816
+II,,743.,Tripropylene,Tripropylen,13987-01-4,C9H18,,817
+II,,744.,Triphenyltin acetate,Triphenyltin acetate,900-95-8,C20H18O2Sn,,818
+II,,745.,Triphenyltin hydroxide,Triphenyltin hydroxit,76-87-9,C18H16OSn,,819
+II,,746.,Undecane,Undecan,1120-21-4,C11H24,,820
+II,,747.,Urea hydrogen peroxide,Urea hydro peroxit,124-43-6,CH6N2O3,,821
+II,,748.,Valeryl chloride,Valeryl clo,638-29-9,C5H9ClO,,822
+II,,749.,Vanadyl sulfate,Vanadyl sunphat,27774-13-6,VO(SO4),,823
+II,,750.,Vinyl bromide,Vinyl bromua,593-60-2,C2H3Br,,824
+II,,751.,Vinyl butyrate,Vinyl butyrat,123-20-6,C6H10O2,,825
+II,,752.,Vinyl isobutyl ether,Vinyl isobutyl ete,109-53-5,C6H12O,,826
+II,,753.,Vinyltoluene,Vinyl toluen,25013-15-4,C9H10,,827
+II,,754.,Vinyltrichlorosilane,Vinyl triclo silan,75-94-5,C2H3Cl3Si,,828
+II,,755.,m-Xylene,m-Xylen,108-38-3,C8H10,,829
+II,,756.,o-Xylene,o-Xylen,95-47-6,C8H10,,830
+II,,757.,p-Xylene,p-Xylen,106-42-3,C8H10,,831
+II,,758.,"2,3-Xylenol","2,3-Xylenol",526-75-0,C8H10O,,832
+II,,759.,"2,4-Xylenol","2,4-Xylenol",105-67-9,C8H10O,,833
+II,,760.,"2,5-Xylenol","2,5-Xylenol",95-87-4,C8H10O,,834
+II,,761.,"2,6-Xylenol","2,6-Xylenol",576-26-1,C8H10O,,835
+II,,762.,"3,4-Xylenol","3,4-Xylenol",95-65-8,C8H10O,,836
+II,,763.,"3,5-Xylenol","3,5-Xylenol",108-68-9,C8H10O,,837
+II,,764.,"2,4-Xylidine","2,4-Xylidin",95-68-1,C8H11N,,838
+II,,765.,"2,6-Xylidine","2,6-Xylidin",87-62-7,C8H11N,,839
+II,,766.,Xylidine,Xylidin,1300-73-8,C8H11N,,840
+II,,767.,Zinc ashe,Tro kẽm,7440-66-6,Zn,,841
+II,,768.,Zinc chloride,Kẽm clorua,7646-85-7,ZnCl2,,842
+II,,769.,Zinc fluorosilicate,Kẽm fluorosilicate,16871-71-9,ZnSiF6,,843
+II,,770.,Zinc nitrate,Kẽm nitrat,7779-88-6,Zn(NO3)2,,844
+II,,771.,Zinc permanganate,Kẽm permanganat,23414-72-4,Zn(MnO4)2,,845
+II,,772.,Zinc peroxide,Kẽm peroxit,1314-22-3,ZnO2,,846
+II,,773.,Zinc phosphide,Kẽm photphua,1314-84-7,Zn3P3,,847
+II,,774.,Zirconium,Zirconi,7440-67-7,Zr,,848
+II,,775.,Zirconium (IV) chloride,Zirconi (IV) chlorit,10026-11-6,ZrCl4,,849
+II,,776.,Zirconium nitrate,Ziriconi nitrat,13746-89-9,Zr(NO3)4,,850
+II,,777.,Zirconium (II) hydride,Kẽm hydrua,7704-99-6,ZrH2,,851
+II,,778.,"(E)-β-((Dichlorphenyl)methylen)-α-(1,1-dimethyl-ethyl)-1H-1,2,4-triazol-1-ethanol","(E)-β-((Diclophenyl) metylen)-α-(1,1-dimetyl-etyl)-1H-1,2,4-triazol-1-ethanol",83657-18-5,C15H17Cl2N3O,,852
+II,,779.,---,"Các hợp chất của Niken dạng bột có thể phát tán rộng trong không khí (niken monoxit, niken dioxit, niken sulphit, triniken, disulphit, diniken trioxit)",,---,,853
+II,,780.,"1-(2,4-Dichloranilinocarbonyl)cyclopropan carbonsaure","1-(2,4-Diclo anilino cacbonyl) xyclopropan cacbonsaure",113136-77-9,C11H9Cl2NO3,,854
+II,,781.,"3-(3,5-dichloro phenyl)-1,5-dimethyl-3-azabicyclo[3.1.0] hexane-2,4-dione","3-(3,5-diclo phenyl)-1,5-dimetyl-3-azabicyclo[3.1.0] hexan-2,4-dion",32809-16-8,C13H11Cl2NO2,,855
+II,,782.,2-(4-tert-butylphenoxy)cyclohexyl prop-2-yne-1-sulfonate,2-(4-tert-butyl phenoxy) xyclohexyl prop-2-yne-1-sunfonat,2312-35-8,C19H26O4S,,856
+II,,783.,3-(Methylmercapto) propionaldehyde,3-(Methylmercapto) propionaldehyde,3268-49-3,C4H8OS,,857
+II,,784.,3-(Trifluoromethyl) phenyl isocyanate,3-(Trifluoromethyl) phenyl isocyanat,329-01-1,C8H4F3NO,,858
+II,,785.,"(1RS,2RS;1RS,2SR)-1-(Biphenyl-4-yloxy)-3,3-dimethyl-1-(1H-1,2,4-triazol-1-yl) butan-2-ol","(1RS,2RS;1RS,2SR)-1-(Biphenyl-4-yloxy)-3,3-dimetyl-1-(1H-1,2,4-triazol-1-yl) butan-2-ol",55179-31-2,C20H23N3O2,,859
+II,,786.,"(RS)-2-Chloro-N-(2,4-dimethyl-3-thienyl)-N-(2-methoxy-1-methylethyl) acetamide","(RS)-2-Clo-N-(2,4-dimetyl-3-thienyl)-N-(2-methoxy-1-metyl ethyl) acetamit",87674-68-8,C12H18ClNO2S,,860
+III,Nhóm 1,1.,Phenylacetone,1 - phenyl - 2 - propanone (P2P),103-79-7,C9H10O,,870
+III,Nhóm 1,2.,Acetic oxide,Acetic anhydride (AA),108-24-7,C4H6O3,,871
+III,Nhóm 1,3.,3-oxo-2-phenylbutanenitrile,Alpha-phenyl acetoacetonitrile (APAAN),4468-48-8,C10H9NO,,872
+III,Nhóm 1,4.,2 - Aminobenzoic acid,Anthranilic acid,118-92-3,C7H7NO2,,873
+III,Nhóm 1,5.,Benzaldehyde,Benzoic aldehyde,100-52-7,C7H6O,,874
+III,Nhóm 1,6.,2-Phenylacetonenitrile,Benzyl cyanide,140-29-4,C8H7N,,875
+III,Nhóm 1,7.,2-Bromobenzonitrile,o-Bromo benzo nitrile,2042-37-7,C7H4BrN,,876
+III,Nhóm 1,8.,Bromocyclopentane,Cyclopentyl bromide,137-43-9,C5H9Br,,877
+III,Nhóm 1,9.,"Butane-1,4-diol","1,4-Butanediol; BD; BDO",110-63-4,C4H10O2,,878
+III,Nhóm 1,10.,Chlorocyclopentane,Cyclopentyl cloride,930-28-9,C5H9Cl,,879
+III,Nhóm 1,11.,Cyclopentyl magnesium bromide,Cyclopentyl magnesium bromide,33240-34-5,C5H9BrMg,,880
+III,Nhóm 1,12.,2-Chlorobenzonitrile,o-chloro benzo nitrile,873-32-5,C7H4ClN,,881
+III,Nhóm 1,13.,"1,3 - Benzodioxole - 5 - (1 - propenyl)",Isosafrole,120-58-1,C10H10O2,,882
+III,Nhóm 1,14.,Dihydrofuran-2(3H)-one,Gamma-butyro lactone (GBL),96-48-0,C4H6O2,,883
+III,Nhóm 1,15.,"(8β) - 9,10 - didehydro - 6 - methylergolin - 8 - carboxylic acid",Lysergic acid,82-58-6,C16H16N2O2,,884
+III,Nhóm 1,16.,1 - Acetylamino - 2 - carboxybenzene,N - acetylanthranilic acid,89-52-1,C9H9NO3,,885
+III,Nhóm 1,17.,1-phenyl-1-propanone,Propiophenone (P1P),93-55-0,C9H10O,,886
+III,Nhóm 1,18.,Piperidine,Piperidine,110-89-4,C5H11N,,887
+III,Nhóm 1,19.,"1,3 - Benzodioxole, 5 - carboxaldehyde",Piperonal,120-57-0,C8H6O3,,888
+III,Nhóm 1,20.,"3,4 - methylenedioxypheny - 2 - propanone",Piperonyl methyl ketone (PMK),4676-39-5,C10H10O3,,889
+III,Nhóm 1,21.,Benzeneacetic acid,Phenylacetic acid,103-82-2,C8H8O2,,890
+III,Nhóm 1,22.,"1,3 - Benzodioxole, 5 - (2 -propenyl)",Safrole,94-59-7,C10H10O2,,891
+III,Nhóm 1,2A,Toxic Chemicals,Các hóa chất độc,,,,894
+III,Nhóm 1,23.,"Amiton: O, O-Diethyl S-[2-(diethylamino)ethyl] phosphorothiolate and corresponding alkylated or protonated salts","Amiton: (O, O-Diethyl-S-(2-diethylaminoethyl) thiophosphate) và các muối alkyl hóa hoặc proton hóa tương ứng",78-53-5,C10H24NO3PS,,895
+III,Nhóm 1,24.,"PFIB: 1,1,3,3,3-Pentafluoro-2-(trifluoromethyl)-1-propene","PFIB: 1,1,3,3,3-Pentafluoro-2-(trifluoromethyl)-1-propene",382-21-8,C4F8,,896
+III,Nhóm 1,25.,BZ: 3-Quinuclidinyl benzilate (*),BZ: 3-Quinuclidinyl benzilate (*),6581-06-2,C21H23NO3,,898
+III,Nhóm 1,2B,Precursors,Các tiền chất,,,,899
+III,Nhóm 1,26.,"Chemicals, except for those listed in Schedule 1, containing a phosphorus atom to which is bonded one methyl, ethyl or propyl (normal or iso) group but not further carbon atoms","Các hóa chất, trừ các chất đã được liệt kê tại Bảng 1, chứa 1 nguyên tử phospho liên kết với một nhóm methyl, ethyl hoặc propyl (mạch thẳng hoặc nhánh) nhưng không liên kết thêm với các nguyên tử các bon khác",,,,900
+III,Nhóm 1,,E.g,Ví dụ,,,,901
+III,Nhóm 1,,Methylphosphonyl dichloride,Methylphosphonyl dichloride,676-97-1,CH3Cl2OP,,902
+III,Nhóm 1,,Dimethyl methyl phosphonate,Dimethyl methyl phosphonate,756-79-6,C3H9O3P,,903
+III,Nhóm 1,,Exemption: Fonofos:,Ngoại trừ: Fonofos:,,,,904
+III,Nhóm 1,,O-Ethyl S-phenyl ethylphosphonothiolothionate,O-Ethyl S-phenyl ethylphosphonothiolothionate,944-22-9,C10H15OPS2,,905
+III,Nhóm 1,27.,"Các hợp chất N,N-Dialkyl (Me, Et, n-Pr hoặc i-Pr) phosphoramidic dihalide","N,N-Dialkyl (Me, Et, n-Pr or i-Pr) phosphoramidic dihalides",,,,906
+III,Nhóm 1,28.,"Dialkyl (Me, Et, n-Pr or i-Pr) N,N-dialkyl (Me, Et, n-Pr or i-Pr)-phosphoramidates","Các hợp chất Dialkyl (Me, Et, n-Pr hoặc i-Pr) N,N-dialkyl (Me, Et, n-Pr hoặc i-Pr)-phosphoramidate",,,,907
+III,Nhóm 1,29.,Arsenic trichloride,Arsenic trichloride,7784-34-1,AsCl3,,908
+III,Nhóm 1,30.,"2,2-Diphenyl-2-hydroxyacetic acid","2,2-Diphenyl-2-hydroxyacetic acid",76-93-7,C14H12O3,,909
+III,Nhóm 1,31.,Quinuclidin-3-ol,Quinuclidin-3-ol,1619-34-7,C7H13NO,,910
+III,Nhóm 1,32.,"N,N-Dialkyl (Me, Et, n-Pr or i-Pr) aminoethyl-2-chlorides","Các hợp chất N,N-Dialkyl (Me, Et, n-Pr hoặc i-Pr) aminoethyl-2-chloride",,,,911
+III,Nhóm 1,,and corresponding protonated salts,và các muối proton hóa tương ứng,,,,912
+III,Nhóm 1,33.,"N,N-Dialkyl (Me, Et, n-Pr or i-Pr) aminoethane-2-ols","Các hợp chất N,N-Dialkyl (Me, Et, n-Pr hoặc i-Pr) aminoethane-2-ol",,,,913
+III,Nhóm 1,,và các muối proton hóa tương ứng,and corresponding protonated salts,,,,914
+III,Nhóm 1,,Exemptions:,Ngoại trừ:,,,,915
+III,Nhóm 1,,"N, N-Dimethylaminoethanol","N, N-Dimethylaminoethanol",108-01-0,C4H11NO,,916
+III,Nhóm 1,,and corresponding protonated salts,và các muối proton hóa tương ứng,,,,917
+III,Nhóm 1,,"N, N-Diethylaminoethanol","N, N-Diethylaminoethanol",100-37-8,C6H15NO,,918
+III,Nhóm 1,,and corresponding protonated salts,và các muối proton hóa tương ứng,,,,919
+III,Nhóm 1,34.,"N, N-Dialkyl (Me, Et, n-Pr or i-Pr) aminoethane-2-thiols and corresponding protonated salts","Các hợp chất N,N-Dialkyl (Me, Et, n-Pr or i-Pr) aminoethane-2-thiol và các muối proton hóa tương ứng",,,,920
+III,Nhóm 1,35.,Thiodiglycol: Bis(2-hydroxyethyl)sulfide,Thiodiglycol: Bis(2-hydroxyethyl) sulfide,111-48-8,C4H10O2S,,921
+III,Nhóm 1,36.,"Pinacolyl alcohol: 3,3-Dimethylbutan-2-ol","Pinacolyl alcohol: 3,3-Dimethyl butan-2-ol",464-07-3,C6H14O,,922
+III,Nhóm 1,37.,Arsenic and arsenic compounds,Asen và các hợp chất của asen,,---,,924
+III,Nhóm 1,38.,The compounds of chromium (VI),Các hợp chất của Cr6+,,---,,925
+III,Nhóm 1,39.,Mercury and mercury compounds,Thủy ngân và các hợp chất của thủy ngân,,---,,926
+III,Nhóm 1,40.,The cyanide compound,Các hợp chất xyanua,,---,,927
+III,Nhóm 1,41.,Lead and lead compounds,Chì và các hợp chất của chì,,---,,928
+III,Nhóm 1,42.,Methoxy acetic acid,Axit methoxy axetic,625-45-6,C3H6O3,,929
+III,Nhóm 1,43.,Benzal chloride,Benzal clorua,98-87-3,C7H6Cl2,,930
+III,Nhóm 1,44.,Benzene,Benzen,71-43-2,C6H6,,931
+III,Nhóm 1,45.,"Benzidine ((1,1’-Biphenyl)-4,4'-diamine)",Benzidin,92-87-5,C12H12N2,,932
+III,Nhóm 1,46.,Benzyl butyl phthalate,Benzyl butyl phthalat,85-68-7,C19H20O4,,933
+III,Nhóm 1,47.,Benzyl chloride,Benzyl clorua,100-44-7,C7H7Cl,,934
+III,Nhóm 1,48.,Beryllium nitrate,Beri nitrat,13597-99-4,Be(NO3)2,,935
+III,Nhóm 1,49.,Bis (2-ethyl hexyl) phthalate (DEHP),Bis (2-etyl hexyl) phthalat (DEHP),117-81-7,C24H38O4,,936
+III,Nhóm 1,50.,Bis (2-methoxy ethyl) ether (diglyme),Bis (2-methoxy etyl) ete (diglyme),111-96-6,C6H14O3,,937
+III,Nhóm 1,51.,Bis (2-methoxyethyl) phthalate,Bis (2-methoxy etyl) phthalat,117-82-8,C14H18O6,,938
+III,Nhóm 1,52.,"1,2-bis (2-methoxy ethoxy) ethane (TEGDME, triglyme)","1,2-Bis (2-methoxy ethoxy) etan (TEGDME, triglym)",112-49-2,C8H18O4,,939
+III,Nhóm 1,53.,Butyltoluene (p-tert-Butyl toluene),Butyl toluen,98-51-1,C11H16,,940
+III,Nhóm 1,54.,Carbon disulfide,Cacbon disunfua,75-15-0,CS2,,941
+III,Nhóm 1,55.,Carbon monoxide,Cacbon monoxit,630-08-0,CO,,942
+III,Nhóm 1,56.,Cadmium,Cadimi,7440-43-9,Cd,,943
+III,Nhóm 1,57.,Cadmium chloride,Cadimi clorua,10108-64-2,CdCl2,,944
+III,Nhóm 1,58.,Cadmiumfluoride,Cadimi florua,7790-79-6,CdF2,,945
+III,Nhóm 1,59.,Cadmium oxide,Cadimi oxit,1306-19-0,CdO,,946
+III,Nhóm 1,60.,Cadmium sulfide,Cadimi sulfua,1306-23-6,CdS,,947
+III,Nhóm 1,61.,Cesium hydroxide,Cesium hydroxit,21351-79-1,CsOH,,948
+III,Nhóm 1,62.,Chloro difluoro methane (R-22),Clo diflo metan (R-22),75-45-6,CHF2Cl,,949
+III,Nhóm 1,63.,Chloro ethanol,Clo etanol,107-07-3,C2H5ClO,,950
+III,Nhóm 1,64.,Chloral hydrate,Cloral hydrat,302-17-0,C2H3Cl3O2,,951
+III,Nhóm 1,65.,2-Chloro phenol,Clo phenol,95-57-8,C6H5ClO,,952
+III,Nhóm 1,66.,5-Chloro-o-toluidine,5-Clo-o-toluidine,95-79-4,C7H8ClN,,953
+III,Nhóm 1,67.,4-Chloro-o-toluidine,4-Clo-o-toluidine,95-69-2,C7H8ClN,,954
+III,Nhóm 1,68.,Cobalt dichloride,Coban diclorua,7646-79-9,CoCl2,,955
+III,Nhóm 1,69.,"4,4’-Methylene dianiline","4,4’-Diamino diphenyl metan",101-77-9,C13H14N2,,956
+III,Nhóm 1,70.,"2,4-Diamino toluene","2,4-Diamino toluen",95-80-7,C7H10N2,,957
+III,Nhóm 1,71.,Dibutyl phthalate,Dibutyl phthalat,84-74-2,C16H22O4,,958
+III,Nhóm 1,72.,"2,2′-dichloro-4,4′- methylene dianiline (MOCA)","2,2’-Dichloro-4,4′- metylen dianilin (MOCA)",101-14-4,C13H12Cl2N2,,959
+III,Nhóm 1,73.,"1,3-Dichloro acetone",1.3-Diclo axeton,534-07-6,C3H4Cl2O,,960
+III,Nhóm 1,74.,"3,3’-Dichloro benzidine","3,3’-Diclo benzidin",91-94-1,C12H10Cl2N2,,961
+III,Nhóm 1,75.,"2,2'-Dichloro diethyl ether","2,2’-Diclo dietyl ete",111-44-4,C4H8Cl2O,,962
+III,Nhóm 1,76.,"2,6-Dichlor-4-nitroanilin",Dicloran,99-30-9,C6H4Cl2N2O2,,963
+III,Nhóm 1,77.,"2,2,2-trichloro-1,1-bis (4-chloro phenyl) ethanol",Dicofol,115-32-2,C14H9Cl5O,,964
+III,Nhóm 1,78.,"Dibenz (a, h) anthracene","Dibenz (a, h) anthracen",53-70-3,C22H14,,965
+III,Nhóm 1,79.,Diboron trioxide,Diboron trioxist,1303-86-2,B2O3,,966
+III,Nhóm 1,80.,Dietyl sulfate,Dietyl sunfat,64-67-5,C4H10O4S,,967
+III,Nhóm 1,81.,Diisobutyl phthalate (DIBP),Diisobutyl phthalat (DIBP),84-69-5,C16H22O4,,968
+III,Nhóm 1,82.,"1,2-dimethoxy ethane, ethylene glycol dimethyl ether (EGDME)","1,2-Dimethoxy etan, etylen glycol dimethyl ete (EGDME)",110-71-4,C4H10O2,,969
+III,Nhóm 1,83.,"N, N-dimethyl acetamide","N, N-Dimetyl axetamit",127-19-5,C4H9NO,,970
+III,Nhóm 1,84.,Nitrous oxide,Dinitơ monoxit,10024-97-2,N2O,,971
+III,Nhóm 1,85.,"2,4-dinitrophenol, salts","2,4-Dinitrophenol và các muối",51-28-5,C6H4N2O5,,972
+III,Nhóm 1,86.,Diisobutyl amine,Diisobutyl amin,110-96-3,C8H19N,,973
+III,Nhóm 1,87.,"2,3-Epoxy-1-propanol (Glycidol)","2,3-Epoxy-1-propanol",556-52-5,C3H6O2,,974
+III,Nhóm 1,88.,Ethyl benzene,Etyl benzen,100-41-4,C8H10,,975
+III,Nhóm 1,89.,Ethyl chloro formate,Etyl clo format,541-41-3,C3H5ClO2,,976
+III,Nhóm 1,90.,Fluorine,Flo,7782-41-4,F2,,977
+III,Nhóm 1,91.,Formaldehyde,Formaldehit,50-00-0,CH2O,,978
+III,Nhóm 1,92.,Furan,Furan,110-00-9,C4H4O,,979
+III,Nhóm 1,93.,"Hexamethylene diisocyanate (1,6-HexamethyIene diisocyanate)",Hexametylen diisoxyanat,822-06-0,C8H12N2O2,,980
+III,Nhóm 1,94.,Hydrazine and hydrated,Hydrazin và các dạng ngậm nước,302-01-2,N2H4,,981
+III,Nhóm 1,95.,Hydroquinone,Hydroquinon,123-31-9,C6H6O2,,982
+III,Nhóm 1,96.,Indomethacine,Indomethacin,53-86-1,C19H16ClNO4,,983
+III,Nhóm 1,97.,Isophorone diisocyanate,Isophoron diisoxyanat,4098-71-9,C12H18N2O2,,984
+III,Nhóm 1,98.,Isopropyl isocyanate,Isopropyl isocyanat,1795-48-8,C4H7NO,,985
+III,Nhóm 1,99.,Potassium sulfide,Kali sulfua,1312-73-8,K2S,,986
+III,Nhóm 1,100.,Lithium hydroxide,Liti hydroxit,1310-65-2,LiOH,,987
+III,Nhóm 1,101.,Lithium hydride,Liti hydrit,7580-67-8,LiH,,988
+III,Nhóm 1,102.,Magnesium phosphide,Magie phốtphua,12057-74-8,Mg3P2,,989
+III,Nhóm 1,103.,Maleic anhydride,Maleic anhydrit,108-31-6,C4H2O3,,990
+III,Nhóm 1,104.,Malono nitril,Malono nitril,109-77-3,C3H2N2,,991
+III,Nhóm 1,105.,Methane sulfonyl chloride,Metan sunphonyl clorit,124-63-0,CH3ClO2S,,992
+III,Nhóm 1,106.,Methyl oxirane (Propylene oxide),Metyl oxiran (Propylen oxit),75-56-9,C3H6O,,993
+III,Nhóm 1,107.,"Methyl chloride (Methane,chloro-)",Clorua metyl,74-87-3,CH3Cl,,994
+III,Nhóm 1,108.,Methanol,Metanol,67-56-1,CH4O,,995
+III,Nhóm 1,109.,Methyl isothiocyanate,Metyl isothioxyanat,556-61-6,C2H3NS,,996
+III,Nhóm 1,110.,Methyl isocyanate,Metyl isoxyanat,624-83-9,C2H3NO,,997
+III,Nhóm 1,111.,Methyl orthosilicate,Metyl orthosilicat (Tetramethoxy silan),681-84-5,C4H12O4Si,,998
+III,Nhóm 1,112.,Methyl vinyl ketone,Metyl vinyl keton,78-94-4,C4H6O,,999
+III,Nhóm 1,113.,2-naphthyl amine,2-Naphtyl amin,91-59-8,C10H9N,,1000
+III,Nhóm 1,114.,Sodium azide,Natri azid,26628-22-8,NaN3,,1001
+III,Nhóm 1,115.,Sodium fluoro acetate,Natri flo axetat,62-74-8,C2H3FNaO2,,1002
+III,Nhóm 1,116.,N-Butyl isocyanate,N-Butyl isoxyanat,111-36-4,C5H9NO,,1003
+III,Nhóm 1,117.,Nicotine (3-(1-Methyl-2-pyrrolidinyl) pyridine),Nicotin,54-11-5,C10H14N2,,1004
+III,Nhóm 1,118.,Nicotine tartrate,Nicotin tartrat,65-31-6,C18H26N2O12,,1005
+III,Nhóm 1,119.,Nickel (II) nitrate,Niken nitrat,13138-45-9,Ni(NO3)2,,1006
+III,Nhóm 1,120.,Nickel tetra carbonyle,Niken tetra carbonyl,13463-39-3,Ni(CO)4,,1007
+III,Nhóm 1,121.,4-Nitro biphenyl,4-Nitro biphenyl,92-93-3,C12H9NO2,,1008
+III,Nhóm 1,122.,o-nitrotoluene,Nitrotoluen,88-72-2,C7H7NO3,,1009
+III,Nhóm 1,123.,Osmium tetroxide,Osmium tetroxit,20816-12-0,OsO4,,1010
+III,Nhóm 1,124.,Paraquate,Paraquat,1910-42-5,C12H14Cl2N2,,1011
+III,Nhóm 1,125.,Phenyl chloro formate,Phenyl clo fomat,1885-14-9,C7H5ClO2,,1012
+III,Nhóm 1,126.,Phenyl isocyanate,Phenyl isoxyanat,103-71-9,C7H5NO,,1013
+III,Nhóm 1,127.,Phenol,Phenol,108-95-2,C6H6O,,1014
+III,Nhóm 1,128.,Phenol phthalein,Phenol phthalein,77-09-8,C20H14O4,,1015
+III,Nhóm 1,129.,Phenyl mercaptan (Thiophenol),Phenyl mercaptan,108-98-5,C6H6S,,1016
+III,Nhóm 1,130.,2- Propen amit,2-Propen amit,79-06-1,C3H5NO,,1017
+III,Nhóm 1,131.,Propoxure,Propoxur,114-26-1,C11H15NO3,,1018
+III,Nhóm 1,132.,Acrylyl chloride,Acrylyl clorit,814-68-6,C3H3CIO,,1019
+III,Nhóm 1,133.,Propargyl alcohol,Rượu propargyl,107-19-7,C3H4O,,1020
+III,Nhóm 1,134.,Allyl alcohol (2-Propen-l-ol),Rượu allyl,107-18-6,C3H6O,,1021
+III,Nhóm 1,135.,Antimony pentachloride,Stibi pentaclorua,7647-18-9,SbCl5,,1022
+III,Nhóm 1,136.,Strychnine,Strychnin,57-24-9,C21H22N2O2,,1023
+III,Nhóm 1,137.,Thallium,Tali,7440-28-0,Tl,,1024
+III,Nhóm 1,138.,Thalidomide,Thalidomit,50-35-1,C13H10N2O4,,1025
+III,Nhóm 1,139.,Thiabendazole,Thiabendazol,148-79-8,C10H7N3S,,1026
+III,Nhóm 1,140.,Thiodicarb,Thiodicarb,59669-26-0,C10H18N4O4S3,,1027
+III,Nhóm 1,141.,Thiram,Thiram,137-26-8,C6H12N2S4,,1028
+III,Nhóm 1,142.,Stannic tetrachloride,Thiếc (IV) clorua,7646-78-8,SnCl4,,1029
+III,Nhóm 1,143.,Toluidine,Toluidin,95-53-4,C7H9N,,1030
+III,Nhóm 1,144.,Toluidine,Toluidin,108-44-1,C7H9N,,1031
+III,Nhóm 1,145.,Toluidine,Toluidin,106-49-0,C7H9N,,1032
+III,Nhóm 1,146.,Tributyl amine,Tributyl amin,102-82-9,C12H27N,,1033
+III,Nhóm 1,147.,Trichloro acetyl chloride,Triclo axetyl clorua,76-02-8,C2Cl4O,,1034
+III,Nhóm 1,148.,Trichloro ethylene,Triclo etylen,79-01-6,C2HCl3,,1035
+III,Nhóm 1,149.,Tricresyl phosphate,Tricresyl photphat,1330-78-5,C21H21O4P,,1036
+III,Nhóm 1,150.,Tris (2-chloro ethyl) phosphate,Tris (2-clo etyl) photphat,115-96-8,C6H12Cl3O4P,,1037
+III,Nhóm 1,151.,Vanadium pentoxide,Vanadi pentoxit,1314-62-1,V2O5,,1038
+III,Nhóm 1,152.,Vinyl benzene (styrene),Vinyl benzen,100-42-5,C8H8,,1039
+III,Nhóm 1,153.,Vinyl chloride,Vinyl clorua,75-01-4,C2H3Cl,,1040
+III,Nhóm 1,154.,Cyclohexyl amine,Xyclohexyl amin,108-91-8,C6H13N,,1041
+III,Nhóm 2,1.,Ethanoic acid,Acetic acid (GAA),64-19-7,C2H4O2,,1046
+III,Nhóm 2,2.,2 - Propanone,Acetone,67-64-1,C3H6O,,1047
+III,Nhóm 2,3.,Acetyl chloride,Acetyl chloride,75-36-5,C2H3ClO,,1048
+III,Nhóm 2,4.,Formic acid ammonium salt,Ammonium formate,540-69-2,CH5NO2,,1049
+III,Nhóm 2,5.,N-Ethylethanamine,Diethylamine,109-89-7,C4H11N,,1050
+III,Nhóm 2,6.,1 - 1 - OxybisethaneDiethyl ether,Ethyl ether (Diethyl ether) Ethyl ether,60-29-7,C4H10O,,1051
+III,Nhóm 2,7.,"1,2-Ethanediol diacetate",Ethylene diacetate,111-55-7,C6H10O4,,1052
+III,Nhóm 2,8.,Methanamide; Carbamaldehyde,Formamide,75-12-7,CH3NO,,1053
+III,Nhóm 2,9.,Methanoic acid,Axit Formic,64-18-6,CH2O2,,1054
+III,Nhóm 2,10.,Hydrochloric acid,Axit Hydrochloric,7647-01-0,HCl,,1055
+III,Nhóm 2,11.,2-Butanone,Methyl ethyl ketone (MEK),78-93-3,C4H8O,,1056
+III,Nhóm 2,12.,Aminomethane,Methylamine,74-89-5,CH5N,,1057
+III,Nhóm 2,13.,Nitroethane,Nitroethane,79-24-3,C2H5NO2,,1058
+III,Nhóm 2,14.,Potassium permanganate,Kali permanganat,7722-64-7,KMnO4,,1059
+III,Nhóm 2,15.,Sulfuric acid,Axit Sulfuric,7664-93-9,H2SO4,,1060
+III,Nhóm 2,16.,"2,3 - Dihydroxy butanedioic acid",Tartaric acid và đồng phân,526-83-0;87-69-4;133-37-9,C4H6O6,,1061
+III,Nhóm 2,17.,Methyl benzene,Toluene,108-88-3,C7H8,,1062
+III,Nhóm 2,18.,Thionyl chloride,Thionyl chloride,7719-09-7,Cl2OS,,1063
+III,Nhóm 2,3A,Toxic Chemicals,Các hóa chất độc,,,,1067
+III,Nhóm 2,19.,Chloropicrin: Trichloronitromethane,Chloropicrin: Trichloronitromethane,76-06-2,CCl3NO2,,1068
+III,Nhóm 2,20.,Cyanogen chloride,Cyanogen chloride,506-77-4,CClN,,1069
+III,Nhóm 2,21.,Hydrogen cyanide,Hydrogen cyanide,74-90-8,HCN,,1070
+III,Nhóm 2,22.,Phosgene: Carbonyl dichloride,Phosgene: Carbonyl dichloride,75-44-5,CCl2O,,1071
+III,Nhóm 2,3B,Precursors,Các tiền chất,,,,1072
+III,Nhóm 2,23.,Dimethyl phosphite,Dimethyl phosphite,868-85-9,C2H7O3P,,1073
+III,Nhóm 2,24.,Diethyl phosphite,Diethyl phosphite,762-04-9,C4H11O3P,,1074
+III,Nhóm 2,25.,Ethyldiethanolamine,Ethyldiethanolamine,139-87-7,C6H15NO2,,1075
+III,Nhóm 2,26.,Methyldiethanolamine,Methyldiethanolamine,105-59-9,C5H13NO2,,1076
+III,Nhóm 2,27.,Phosphorus oxychloride,Phosphorus oxychloride,10025-87-3,Cl3OP,,1077
+III,Nhóm 2,28.,Phosphorus trichloride,Phosphorus trichloride,7719-12-2,Cl3P,,1078
+III,Nhóm 2,29.,Phosphorus pentachloride,Phosphorus pentachloride,10026-13-8,PCl5,,1079
+III,Nhóm 2,30.,Sulfur monochloride,Sulfur monochloride,10025-67-9,Cl2S2,,1080
+III,Nhóm 2,31.,Sulfur dichloride,Sulfur dichloride,10545-99-0,Cl2S,,1081
+III,Nhóm 2,32.,Trimethyl phosphite,Trimethyl phosphite,121-45-9,C3H9O3P,,1082
+III,Nhóm 2,33.,Triethyl phosphite,Triethyl phosphite,122-52-1,C6H15O3P,,1083
+III,Nhóm 2,34.,Thionyl chloride,Thionyl chloride,7719-09-7,Cl2OS,,1084
+III,Nhóm 2,35.,Triethanolamine,Triethanol amine,102-71-6,C6H15NO3,,1085
+III,Nhóm 2,36.,Aldicarb,Aldicarb,116-06-3,C7H14N2O2S,,1088
+III,Nhóm 2,37.,Alachlor,Alachlor,15972-60-8,C14H20ClNO2,,1089
+III,Nhóm 2,38.,Aldrin,Aldrin,309-00-2,C12H8C16,,1090
+III,Nhóm 2,39.,"Alkanes, C10-13, chloro (Short Chain Chlorinated Paraffins)","Ankan, C10-13, chloro (Paraffin mạch ngắn được clo hóa)",85535-84-8;68920-70-7;71011-12-6;85536-22-7;85681-73-8;108171-26-2,----,,1091
+III,Nhóm 2,40.,"Perfluorohexane sulfonic acid (PFHxS), its salts and PFHxS - related compounds","Axit perflo hexan sulfonic (PFHxS), các muối của chúng và các hợp chất liên quan đến PFHxS",355-46-4,---,,1092
+III,Nhóm 2,41.,Perfluorooctanoic acid (PFOA) and its salts and PFOA - related compounds,"Axit perflo-octanoic (PFOA), các muối của chúng và các hợp chất liên quan đến PFOA",335-67-1,---,,1093
+III,Nhóm 2,42.,"(2,4,5-Trichloro phenoxy) acetic acid (2,4,5-T and its salts and esters)","Axit (2,4,5-triclo phenoxy) axetic",93-76-5,C8H5Cl3O3,,1094
+III,Nhóm 2,43.,Azinphos-methyl,Azinphos-metyl,86-50-0,C10H12N3O3PS2,,1095
+III,Nhóm 2,44.,Binapacryl,Binapacryl,485-31-4,C15H18N2O6,,1096
+III,Nhóm 2,45.,Biphenyl (PCB),Biphenyl (PCB),,---,,1097
+III,Nhóm 2,46.,Polybrominated biphenyls (PBBs),Biphenyls Brom hóa (PBBs),13654-09-6;27858-07-7;36355-01-8,---,,1098
+III,Nhóm 2,47.,Polychlorinated biphenyls (PCBs),Biphenyls Clo hóa (PCBs),1336-36-3,---,,1099
+III,Nhóm 2,48.,"Dustable powder formulations containing a combination of benomyl at or above 7%, carbofuran at or above 10% and thiram at or above 15%","Bột dustable chứa một sự kết hợp của benomyl tại hoặc cao hơn 7%, carbofuran tại hoặc cao hơn 10% và thiram tại hoặc cao hơn 15%",1563-66-2;17804-35-2,---,,1100
+III,Nhóm 2,49.,Captafol,Captafol,2425-06-1,C10H9O2NCl4S,,1101
+III,Nhóm 2,50.,Chlordane,Chlordan,57-74-9,C10H6Cl8,,1102
+III,Nhóm 2,51.,Chlordimeform,Chlordimeform,6164-98-3,C10H13ClN2,,1103
+III,Nhóm 2,52.,Chlorobenzilate,Chlorobenzilat,510-15-6,C16H14Cl2O3,,1104
+III,Nhóm 2,53.,Decabromodiphenyl ether (DBDE),Decabromo diphenyl ete (DBDE),1163-19-5,C12Br10O,,1105
+III,Nhóm 2,54.,Dechlorane Plus,Dechlorane Plus,13560-89-9;135821-03-3;135821-74-8,---,,1106
+III,Nhóm 2,55.,Dieldrin,Dieldrin,60-57-1,C16H14Cl2O3,,1107
+III,Nhóm 2,56.,Dinitro-o-cresol,Dinitro-o-cresol,534-52-1,C7H6N2O5,,1108
+III,Nhóm 2,57.,"Dinoseb (6-sec-butyl-2,4-dinitro phenol)","Dinoseb (6-sec-butyl-2,4-dinitro phenol)",88-85-7,C10H12N2O5,,1109
+III,Nhóm 2,58.,"1,2-dibromo ethane (ethylene dibromide)","1,2-Dibrom etan",106-93-4,C2H4Br2,,1110
+III,Nhóm 2,59.,"1,2- dichloroethane (EDC)","1,2-Diclo etan (EDC)",107-06-2,C2H4Cl2,,1111
+III,Nhóm 2,60.,Dodecachloropentacyclodecane (mirex),Dodecaclo pentaxyclodecan,2385-85-5,C10Cl12,,1112
+III,Nhóm 2,61.,Endosulfane,Endosulfan,115-29-7,C25H6O3S,,1113
+III,Nhóm 2,62.,Endrine,Endrin,72-20-8,C12H8Cl6O,,1114
+III,Nhóm 2,63.,Commercial octabromodiphenyl ether (including Hexabromodiphenyl ether and Heptabromodiphenyl ether),Ete octabrom diphenyl thương mại (bao gồm Hexabromodiphenyl ete và heptabromo diphenyl alkan),36483-60-0;68928-80-3,---,,1115
+III,Nhóm 2,64.,Ethylene oxide,Etylen oxit,75-21-8,C2H4O,,1116
+III,Nhóm 2,65.,Fluoracetamide,Floraxetamit,640-19-7,C2H4FNO,,1117
+III,Nhóm 2,66.,Hexachloro cyclohexane,Hexachloxyclohexan,608-73-1,C6H6Cl6,,1118
+III,Nhóm 2,67.,Hepta chlorane,Hepta cloran,76-44-8,C10H5Cl7,,1119
+III,Nhóm 2,68.,Hexachloro benzene,Hexaclo benzen,118-74-1,C6Cl6,,1120
+III,Nhóm 2,69.,Hexabromocyclododecane (HBCD),Hexabrom cyclododecan (HBCD),25637-99-4;3194-55-6;134237-50-6;134237-51-7;134237-52-8,C12H18Br6,,1121
+III,Nhóm 2,70.,"Lindane (gamma-1,2,3,4,5,6-Hexachlorocyclohexane)","Lindan (gamma-1,2,3,4,5,6-Hexaclo xyclohexan)",58-89-9,C6H6Cl6,,1122
+III,Nhóm 2,71.,Methamidophos,Methamidophos,10265-92-6,C2H8NO2SP,,1123
+III,Nhóm 2,72.,Methyl-parathion,Metyl-parathion,298-00-0,C8H10NO5PS,,1124
+III,Nhóm 2,73.,Monocrotophos (Dimethyl (E)-1-methyl-2- (methyl carbamoyl) vinyl phosphate),Monocrotophos,6923-22-4,C7H14NO5P,,1125
+III,Nhóm 2,74.,Polychlorinated naphthalene (PCN),Naphtalen polyclo hóa (PCN),70776-03-3,---,,1126
+III,Nhóm 2,75.,Parathion,Parathion,56-38-2,C10H14NO5PS,,1127
+III,Nhóm 2,76.,Pentachlorophenol and its salts and esters,Pentaclophenol và muối và este của nó,87-86-5,C6HCl5O,,1128
+III,Nhóm 2,77.,Commercial pentabromodiphenyl ether (including tetrabromo diphenyl ether and pentabromo diphenyl ether),Pentabromdiphenyl ete (bao gồm Tetrabromdiphenyl ete và pentabromdiphenyl ete),32534-81-9;40088-47-9,---,,1129
+III,Nhóm 2,78.,"Perfluoro octane sulfonic acid, perfluoro octane sulfonates, perfluoro octane sulfo amides and perfluoro octane sulfonyls","Perflo octan sulfonic axit, perflo octan sulfonat, perflo octan sulfoamit và perflo octan sunfonyl",1691-99-2;1763-23-1;24448-09-7;251099-16-8;2795-39-3;29081-56-9;29457-72-5;307-35-7;31506-32-8;4151-50-2;56773-42-3;70225-14-8,---,,1130
+III,Nhóm 2,79.,Pentachlorobenzene (PeCB),Pentaclo benzen (PeCB),608-93-5,C6HCl5,,1131
+III,Nhóm 2,80.,Phosphamidon,Phosphamidon,13171-21-6,C10H19ClNO5P,,1132
+III,Nhóm 2,81.,Polychlorinated,Polychlorinated,,---,,1133
+III,Nhóm 2,82.,Polychlorinated terphenyls (PCTs),Terphenyls clo hóa (PCTs),61788-33-8,C18H14-nCln(n=1-14),,1134
+III,Nhóm 2,83.,Tributyltin compounds,Tributyltin,1461-22-9;1983-10-4;2155-70-6;24124-25-2;4342-36-3;85409-17-2;56-35-9,---,,1135
+III,Nhóm 2,84.,"1,1,1-Trichloro-2,2-bis(4-chlorophenyl) ethane","1,1,1-Triclo-2,2-bis (4-clophenyl) etan (D.D.T)",50-29-3,C14H9Cl5,,1136
+III,Nhóm 2,85.,"Tris (2,3-dibromo propyl) phosphate","Tris (2,3-dibro propyl) photphat",126-72-7,C9H15Br6PO4,,1137
+III,Nhóm 2,86.,Toxaphene (Camphechlor),Toxaphen (Camphechlor),8001-35-2,C10H10Cl8,,1138
+III,Nhóm 2,87.,"2-(2H-Benzotriazol-2-yl)-4,6-di-tert-pentylphenol",UV-328,25973-55-1,C22H29N3O,,1139
+IV,Bảng A,1.,Acrolein (2-Propenal),Acrolein,107-02-8,C3H4O,5.000,1153
+IV,Bảng A,2.,Acrylonitrile,Acrylonitril,107-13-1,C3H3N,50.000,1154
+IV,Bảng A,3.,Acryloyl chloride (2- Propenoyl chloride),Acryloyl clorua,814-68-6,C3H3ClO,5.000,1155
+IV,Bảng A,4.,Aldicarb,Aldicarb,116-06-3,C7H14N2O2S,5.000,1156
+IV,Bảng A,5.,Allyl alcohol (2- Propen-1-ol),Rượu alyl (2- Propen-1-ol),107-18-6,C3H6O,5.000,1157
+IV,Bảng A,6.,Allylamine (2- Propen-1-amine),Alylamin (2- Propen-1-amin),107-11-9,C3H7N,5.000,1158
+IV,Bảng A,7.,Ammonia (anhydrous),Amoniac khan,7664-41-7,NH3,50.000,1159
+IV,Bảng A,8.,Ammonium nitrate,Amoni nitrat,6484-52-2,NH4NO3,,1160
+IV,Bảng A,9.,"Anabasine, (Pyridine,3-(2S)-2- piperidinyl-)","Anabasin (Pyridin,3-(2S)-2- piperidinyl)",494-52-0,C10H14N2,50.000,1165
+IV,Bảng A,10.,Arsen trihydride (arsine),Asen hydrua,7784-42-1,AsH3,200,1166
+IV,Bảng A,11.,Arsenic (V) acid and/or salts,Axit asenic và hoặc các muối asenat,,H3AsO4,1.000,1167
+IV,Bảng A,12.,Arsenic pentoxide,Asen pentoxit,1303-28-2,As2O5,1.000,1168
+IV,Bảng A,13.,Arsenic trioxide,Asen trioxit,1327-53-3,As2O3,100,1169
+IV,Bảng A,14.,Arsenous tricloride,Asen triclorua,7784-34-1,AsCl3,50.000,1170
+IV,Bảng A,15.,Arsenious (III) acid and/or salts,Axit asenơ và các muối asenit,,HAsO2,100,1171
+IV,Bảng A,16.,Acetaldehyde,Axetaldehit,75-07-0,C2H4O,5.000,1172
+IV,Bảng A,17.,Acetylene,Axetylen,74-86-2,C2H2,5.000,1173
+IV,Bảng A,18.,Azinphos-ethyl,Azinphos-etyl,2642-71-9,C12H16N3O3PS2,5.000,1174
+IV,Bảng A,19.,Azinphos-methyl,Azinphos-metyl,86-50-0,C10H12N3O3PS2,50.000,1175
+IV,Bảng A,20.,Barium azide,Bari azit,18810-58-7,Ba(N3)2,10.000,1176
+IV,Bảng A,21.,"Beryllium (powders, compounds)",Beryli (dạng bột và các hợp chất),7440-41-7,Be,100,1177
+IV,Bảng A,22.,"Bis (2,4,6- trinitrophenyl) amine","Bis (2,4,6-trinitrophenyl) amin",131-73-7,C12H5N7O12,10.000,1178
+IV,Bảng A,23.,Bis (2-chloroethyl) sulphide,Bis (2-clo etyl) sunfua,505-60-2,C4H8Cl2S,5.000,1179
+IV,Bảng A,24.,Bis (2- dimethyl aminoethyl) (methyl)amin,Bis (2- dimetylaminoetyl) (metyl)amin,3030-47-5,C9H23N3,50.000,1180
+IV,Bảng A,25.,Bis (chloromethyl) ether,Bis (clo metyl) ete,542-88-1,C2H4Cl2O,50.000,1181
+IV,Bảng A,26.,"2,2- Bis(tert-butylperoxy) butane (>70%)","2,2-Bis(tert-butylperoxy) butan (>70%)",2167-23-9,C12H26O4,10.000,1182
+IV,Bảng A,27.,"1,1- Bis(tert-butylperoxy) xyclohexan (>80%)","1,1-Bis(tert-butylperoxy) xyclohexan (>80%)",3006-86-8,C14H28O4,10.000,1183
+IV,Bảng A,28.,"Boron trichloride (Borane, trichloro-)",Boron triclorua,10294-34-5,BCl3,5.000,1184
+IV,Bảng A,29.,"Boron trifluoride (Borane, trifluoro-)",Boron triflorua,20654-88-0;7637-07-2,BF3,5.000,1185
+IV,Bảng A,30.,"Boron trifluoride compound with methyl ether (1:1) (Boron, trifluoro (oxybis (metane)-, T-4-",Hỗn hợp boron triflorua và metyl ete (1:1),353-42-4,C2H6BF3O,5.000,1186
+IV,Bảng A,31.,Bromine,Brom,7726-95-6,Br2,20.000,1187
+IV,Bảng A,32.,1-Bromo-3- chloropropane,1-Brom-3- cloropropan,109-70-6,C3H6BrCl,500,1188
+IV,Bảng A,33.,Bromomethane (methyl bromide),Metyl bromua,74-83-9,CH3Br,5.000,1189
+IV,Bảng A,34.,"Bromotrifluorethylene (Ethene, bromotrifluor o-)",Brom triflo etylen,598-73-2,C2BrF3,10.000,1190
+IV,Bảng A,35.,"1,3-Butadiene","1,3-Butadien",106-99-0,C4H6,10.000,1191
+IV,Bảng A,36.,Butane,Butan,106-97-8,C4H10,10.000,1192
+IV,Bảng A,37.,1-Butene,1-Buten,106-98-9,C4H8,10.000,1193
+IV,Bảng A,38.,2-Butene,2-Buten,1624-64-6,C4H8,10.000,1194
+IV,Bảng A,39.,Butene,Buten,25167-67-3,C4H8,10.000,1195
+IV,Bảng A,40.,Tert-butyl acrylate,Tert-butyl acrylat,1663-39-4,C7H12O2,200.000,1196
+IV,Bảng A,41.,Tert-butyl peroxy isobutyrate (>80%),Tert-butyl peroxy isobutyrat (>80%),109-13-7,C8H16O3,5.000,1197
+IV,Bảng A,42.,Tert-butyl peroxyacetate (>70%),Tert-butyl peroxyaxetat (>70%),107-71-1,C6H12O3,10.000,1198
+IV,Bảng A,43.,Tert-butylperoxy isopropylcarbonate (>80%),Tert-butylperoxy isopropyl cacbonat (>80%),2372-21-6,C8H16O4,10.000,1199
+IV,Bảng A,44.,Carbofuran,Cacbofuran,1563-66-2,C12H15NO3,5.000,1200
+IV,Bảng A,45.,Carbon disulfide,Cacbon disunfua,75-15-0,CS2,10.000,1201
+IV,Bảng A,46.,Carbon oxysulfide (Carbon oxide sulfide (COS)),Cacbon oxysunfua,463-58-1,COS,10.000,1202
+IV,Bảng A,47.,Carbon phenothion,Cacbon phenothion,786-19-6,C11H16ClO2PS3,5.000,1203
+IV,Bảng A,48.,Carbonyl dichloride (phosgene),Cacbonyl clorua (phosgen),75-44-5,CCl2O,300,1204
+IV,Bảng A,49.,"Lead 2,4,6-trinitroresorcinoxide lead styphnate)","Chì 2,4,6-trinitroresorcinoxit",63918-97-8,C6HN3O8Pb,50.000,1205
+IV,Bảng A,50.,Lead alkyls,Các ankyl chì,,--,5.000,1206
+IV,Bảng A,51.,Lead azide,Chì azit,13424-46-9,PbN6,10.000,1207
+IV,Bảng A,52.,"1-Chlopropylene (1-Propene, 1-chloro-)",1-Clo propylene,590-21-6,C3H5Cl,10.000,1208
+IV,Bảng A,53.,Chlorfenvinphos,Clo fenvinphos,470-90-6,C12H14Cl3O4P,5.000,1209
+IV,Bảng A,54.,Chlorine,Clo,7782-50-5,Cl2,10.000,1210
+IV,Bảng A,55.,Chlorine dioxide (Chlorine oxide (ClO2)),Clo dioxit,10049-04-4,ClO2,5.000,1211
+IV,Bảng A,56.,"Chloroform (methane, trichloro-)",Cloroform,67-66-3,CHCl3,5.000,1212
+IV,Bảng A,57.,Chloromethyl methyl ether,Clormetyl metyl ete,107-30-2,C2H5ClO,5.000,1213
+IV,Bảng A,58.,2-chloropropane,Isopropyl clorua,75-29-6,C3H7Cl,10.000,1214
+IV,Bảng A,59.,"2-Chloropropylene (1-Propene, 2-chloro-)",2-Clo propylene,557-98-2,C3H5Cl,10.000,1215
+IV,Bảng A,60.,Chlorotrinitro benzene,Clo trinitro benzen,88-88-0,C6H2ClN3O6,5.000,1216
+IV,Bảng A,61.,"Cobalt metal, oxides, carbonates, sulphides, as powders","Coban kim loại và các hợp chất oxit, carbonnat, sulfua dạng bột",,---,5.000,1217
+IV,Bảng A,62.,Crimidine,Crimidin,535-89-7,C7H10ClN3,5.000,1218
+IV,Bảng A,63.,Crotonaldehyde (2-Butenal),2-Butenal,915798-64-8,C4H6O,5.000,1219
+IV,Bảng A,64.,Demeton,Demeton,8065-48-3,C16H38O6P2S4,5.000,1220
+IV,Bảng A,65.,Dialifos,Dialifos,10311-84-9,C14H17CINO4PS2,50.000,1221
+IV,Bảng A,66.,Diazodinitrophenol,Diazo dinitro phenol,87-31-0,C6H2N4O5,10.000,1222
+IV,Bảng A,67.,Dibenzyl peroxy dicarbonate (>90%),Dibenzyl peroxy dicacbonat (>90%),2144-45-8,C16H14O6,10.000,1223
+IV,Bảng A,68.,Diborane,Diboran,19287-45-7,B2H6,5.000,1224
+IV,Bảng A,69.,"1,2-Dibromoethane (ethylene dibromide)","1,2-Dibrom etan",106-93-4,C2H4Br2,50.000,1225
+IV,Bảng A,70.,"Dichlorosilane (silane, dichloro-)",Diclo silan,4109-96-0,Cl2H2Si,5.000,1226
+IV,Bảng A,71.,oo-Diethyl s- ethylsulphinylmethyl phosphorothioate,oo-Dietyl s- etylsunphinylmetyl photphothioat,2588-05-8,C7H17O4PS2,5.000,1227
+IV,Bảng A,72.,oo-Diethyl s-ethyl sulphonylmethyl phosphorothioate,oo-Dietyl s-etyl sunphonylmetyl photphothioat,2588-06-9,C7H17O5PS2,5.000,1228
+IV,Bảng A,73.,oo-Diethyl s-ethyl thiomethyl phosphorothioate,oo-Dietyl s-etyl thiometyl photphothioat,2600-69-3,C7H17O3PS2,5.000,1229
+IV,Bảng A,74.,oo-Diethyl s-iso propylthiomethyl phosphorodithioate,oo-Dietyl s-iso propylthiometyl photphodithioat,78-52-4,C8H19O2PS3,5.000,1230
+IV,Bảng A,75.,oo-Diethyl s-propyl thiomethyl phosphorodithioate,oo-Dietyl s-propyl thiometyl photphodithioat,3309-68-0,C8H19O2PS3,5.000,1231
+IV,Bảng A,76.,Diethylene glycol dinitrate,Dietylen glycol dinitrat,693-21-0,C4H8N2O7,10.000,1232
+IV,Bảng A,77.,Dietyl peroxy dicarbonate (>30%),Dietyl peroxy dicarbonat (> 30%),14666-78-5,C6H10O6,10.000,1233
+IV,Bảng A,78.,"Difluoroethane (Ethane, 1,1 -difluoro-)","1,1 Diflo etan",75-37-6,C2H4F2,10.000,1234
+IV,Bảng A,79.,"2,2 Dihydro peroxypropane (>30%)","2,2-Dihydro peroxypropan (>30%)",2614-76-8,C3H8O4,10.000,1235
+IV,Bảng A,80.,Di-isobutyryl peroxide (> 50%),Di-isobutyryl peroxit (> 50%),3437-84-1,C8H14O4,10.000,1236
+IV,Bảng A,81.,Dimefox,Dimefox,115-26-4,C4H12FN2OP,5.000,1237
+IV,Bảng A,82.,"Dimethylamine (Methanamine, N-methyl-)",Dimetyl amin,124-40-3,C2H7N,5.000,1238
+IV,Bảng A,83.,Dimethylcarbamoyl chloride,Dimetylcacbamoyl clorua,79-44-7,C3H6CINO,50.000,1239
+IV,Bảng A,84.,"Dimethyldichlorosilane (silane, dichlorodimethyl-)",Dimetyldiclo silan,75-78-5,C2H6Cl2Si,5.000,1240
+IV,Bảng A,85.,"Methyl ether (Methane, oxybis-)",Dimetyl ete,115-10-6,C2H6O,10.000,1241
+IV,Bảng A,86.,Dimethylnitrosamine,Dimetyl nitrosamin,62-75-9,C2H6N2O,5.000,1242
+IV,Bảng A,87.,"2,2-Dimethylpropane (Propane, 2,2-dimethyl-)","2,2-Dimetyl propan",463-82-1,C5H12,10.000,1243
+IV,Bảng A,88.,Dimetylphosphoramid ocyanidic acid,Axit dimetyl photphoramido xyanidic,63917-41-9,C3H7N2P,1.000,1244
+IV,Bảng A,89.,Di-n-propylperoxy dicarbonate (> 80%),Di-n-propylperoxy dicacbonat (> 80%),16066-38-9,C8H14O6,10.000,1245
+IV,Bảng A,90.,Diphacinone,Diphacinon,82-66-6,C23H16O3,5.000,1246
+IV,Bảng A,91.,Di-sec-butyl peroxydicarbonate (> 80%),Di-sec-butyl peroxydicacbonat (> 80%),19910-65-7,C10H18O6,10.000,1247
+IV,Bảng A,92.,Disulfoton,Disulfoton,298-04-4,C8H19O2PS3,5.000,1248
+IV,Bảng A,93.,"Epichlorohydrin (oxirane, (chloromethyl-)",Epiclohydrin,106-89-8,C3H5ClO,5.000,1249
+IV,Bảng A,94.,"Epn (Phosphonothioic acid, P-phenyl-, O-ethyl O-(4-nitrophenyl) ester)","Epn (Photphonothioic acid, P-phenyl-, O-ethyl O-(4-nitrophenyl) este)",2104-64-5,C14H14NO4PS,5.000,1250
+IV,Bảng A,95.,Ethane,Etan,74-84-0,C2H6,10.000,1251
+IV,Bảng A,96.,Ethion,Ethion,563-12-2,C9H22O4P2S4,50.000,1252
+IV,Bảng A,97.,Ethylamine (Ethanamine),Etyl amin,75-04-7,C2H7N,5.000,1253
+IV,Bảng A,98.,Ethyl acetylene (1-Butyne),Etyl axetylen,107-00-6,C4H6,10.000,1254
+IV,Bảng A,99.,"Ethyl chloride (Ethane, chloro)",Etyl clorua,75-00-3,C2H5Cl,10.000,1255
+IV,Bảng A,100.,"Ethyl ether (Ethane, 1,1’-oxybis-)",Etyl ete,60-29-7,C4H10O,10.000,1256
+IV,Bảng A,101.,Ethyl mercaptan (Ethanethiol),Etyl mercaptan,75-08-1,C2H6S,10.000,1257
+IV,Bảng A,102.,Ethyl nitrate,Etyl nitrat,625-58-1,C2H5NO3,50.000,1258
+IV,Bảng A,103.,"Ethyl nitrite (Nitrous acid, ethyl ester)",Etyl nitro,109-95-5,C2H5NO2,10.000,1259
+IV,Bảng A,104.,Ethylene glycol dinitrate,Etylen glycol dinitrat,628-96-6,C2H4N2O6,10.000,1260
+IV,Bảng A,105.,Ethylene oxide,Etylen oxit,75-21-8,C2H4O,5.000,1261
+IV,Bảng A,106.,"Ethylenediamine (1,2-Ethanediamine)",Etylen diamin,107-15-3,C2H8N2,5.000,1262
+IV,Bảng A,107.,Ethyleneimine,Etylenimin,151-56-4,C2H5N,10.000,1263
+IV,Bảng A,108.,3-(2-Ethylhexyloxy) propylamin,3-(2-Etylhexyloxy) propylamin,5397-31-9,C11H25NO,50.000,1264
+IV,Bảng A,109.,Fluorine,Flo,7782-41-4,F2,10.000,1265
+IV,Bảng A,110.,Fluoroacetic acid,Axit flo axetic,144-49-0,C2H3FO2,5.000,1266
+IV,Bảng A,111.,Fluenetil,Fluenetil (2-floetyl 4 -Biphenylaxetat),4301-50-2,C16H15FO2,5.000,1267
+IV,Bảng A,112.,Formaldehyde (Conc. > 90%),Formaldehit (Nồng độ ≥ 90%),,CH2O,5.000,1268
+IV,Bảng A,113.,Furan,Furan,110-00-9,C4H4O,10.000,1269
+IV,Bảng A,114,1-guanyl-4-nitrosaminoguanyl-1 -tetrazene,1 -Guanyl-4-nitrosaminoguanyl-1 -tetrazen,109-27-3,C2H8N10O,10.000,1270
+IV,Bảng A,115.,"1,2,3,7,8,9- Hexachlorodibenzo-p- dioxin","1,2,3,7,8,9-Hexaclo dibenzo-p-dioxin",19408-74-3,C12H2Cl6O2,100,1271
+IV,Bảng A,116.,"33.6.6.9.9-Hexamethyl-1,2,4,5-tetroxacyclononate (>75%)","3,3,6,6,9,9-Hexametyl- 1,2,4,5-tetroxacyclononat (>75%)",22397-33-7,C12H22O4,5000,1272
+IV,Bảng A,117.,Hexamethylphosphor oamide,Hexametylphotphor oamit,680-31-9,C6H18N3OP,50.000,1273
+IV,Bảng A,118.,"2,2’,4,4’,6,6’-hexanitrostilbene","2,2’, 4,4’, 6,6’-Hexanitro stilben",20062-22-0,C14H6N6O12,10.000,1274
+IV,Bảng A,119.,Hydrazine,Hydrazin,302-01-2,H4N2,5.000,1275
+IV,Bảng A,120.,Hydrazine nitrate,Hydrazin nitrat,13464-97-6,H5N3O3,50.000,1276
+IV,Bảng A,121,Hydrogen,Hydro,1333-74-0,H2,5.000,1277
+IV,Bảng A,122.,Hydrogen chloride and Chlohydric acid,Hydro clorua và axit clohydric,7647-01-0,HCl,25.000,1278
+IV,Bảng A,123.,Hydrogen fluoride,Hydro florua,7664-39-3,HF,5.000,1279
+IV,Bảng A,124.,Hydrogen selenide,Hydro selenua,7783-07-5,H2Se,10.000,1280
+IV,Bảng A,125.,Hydrogen sulphide,Hydro sunfua,7783-06-4,H2S,5.000,1281
+IV,Bảng A,126.,Hydrocyanic acid,Axit hydroxyanic,74-90-8,HCN,5.000,1282
+IV,Bảng A,127.,"5-Hydroxy-1,4-naphthalenedione","5-hydroxy naphthalen-1,4-dion",481-39-0,C10H6O3,10.000,1283
+IV,Bảng A,128.,Hydroxy acetonitrile (glycolonitrile),Hydroxy axetonitril,107-16-4,C2H3NO,5.000,1284
+IV,Bảng A,129.,Isobenzan,Isobenzan,297-78-9,C9H4Cl8O,5.000,1285
+IV,Bảng A,130.,2- methyl-Propanenitrile,Isobutyronitril (2-metyl propan nitril),78-82-0,C4H7N,10.000,1286
+IV,Bảng A,131.,Isodrin,Isodrin,465-73-6,C12H8Cl6,1.000,1287
+IV,Bảng A,132.,2-methyl- Butane,Isopentan,78-78-4,C5H12,5.000,1288
+IV,Bảng A,133.,"2-methyl-1,3-butadiene",Isopren,78-79-5,C5H8,10.000,1289
+IV,Bảng A,134.,1-methylethyl chlorocarbonate,Isopropyl cloformat,108-23-6,C4H7ClO2,5.000,1290
+IV,Bảng A,135.,Potassium nitrate,Kali nitrat,7757-79-1,KNO3,,1291
+IV,Bảng A,136.,Liquefied extremely flammable gases (including LPG) and natural gas,Các khí hóa lỏng đặc biệt dễ cháy (bao gồm cả LPG) và khí thiên nhiên,,---,50.000,1294
+IV,Bảng A,137.,Sulfur dichloride,Lưu huỳnh diclorua,10545-99-0,SCl2,100,1295
+IV,Bảng A,138.,Sulfur dioxide,Lưu huỳnh dioxit,7446-09-5,SO2,50.000,1296
+IV,Bảng A,139.,Sulfur tetrafloride (Sulfur fluoride),Lưu huỳnh tetraflorua,7783-60-0,SF4,5.000,1297
+IV,Bảng A,140.,Sulfur trioxide,Lưu huỳnh trioxit,7446-11-9,SO3,15.000,1298
+IV,Bảng A,141.,Methane,Metan,74-82-8,CH4,10.000,1299
+IV,Bảng A,142.,Methanol,Metanol,67-56-1,CH4O,500.000,1300
+IV,Bảng A,143.,3-Methyl -1-butene,3-Metyl 1-buten,563-45-1,C5H10,5.000,1301
+IV,Bảng A,144.,Methyl acrylate,Metyl acrylat,96-33-3,C4H6O2,500.000,1302
+IV,Bảng A,145.,Methylamine (Methanamine),Metyl amin,74-89-5,CH5N,5.000,1303
+IV,Bảng A,146.,"Methyl chloride (Methane, chloro-)",Metyl clorua,74-87-3,CH3Cl,5.000,1304
+IV,Bảng A,147.,"Methyl chloroformate (Carbonochloridic acid, methylester)",Metyl cloformat,79-22-1,C2H3ClO2,5.000,1305
+IV,Bảng A,148.,Methyl ethyl ketone peroxide (> 60%),Metyl etyl keton peroxit (> 60%),1338-23-4,C8H18O6,5.000,1306
+IV,Bảng A,149.,"Methyl formate (Formic acid, methyl ester)",Metyl format,107-31-3,C2H4O2,5.000,1307
+IV,Bảng A,150.,"Methyl hydrazine (Hydrazine, methyl-)",Metyl hydrazin,60-34-4,CH6N2,5.000,1308
+IV,Bảng A,151.,Methyl isobutyl ketone peroxide (> 60%),Metyl isobutyl keton peroxit (nồng độ > 60%),37206-20-5,C12H26O4,50.000,1309
+IV,Bảng A,152.,Methyl isocyanate,Metyl isoxyanat,624-83-9,C2H3NO,150,1310
+IV,Bảng A,153.,Methyl mercaptan (Methanethiol),Metyl mercaptan,74-93-1,CH4S,10.000,1311
+IV,Bảng A,154.,"Methyl thiocyanate (Thiocyanic acid, methyl ester)",Metyl thioxyanat,556-64-9,C2H3NS,10.000,1312
+IV,Bảng A,155.,2-Methyl-1 -butene,2-Metyl 1-buten,563-46-2,C5H10,10.000,1313
+IV,Bảng A,156.,2-methyl-2- Propenenitrile,Metacrylonitril,126-98-7,C4H5N,10.000,1314
+IV,Bảng A,157.,2-Methyl-3- butenenitrile,2-Metyl-3-buten nitril,16529-56-9,C5H7N,500.000,1315
+IV,Bảng A,158.,"4,4’- Methylenebis (2-chloroaniline) and/or salts, in powder form","4,4-Metylen bis (2-clo anilin) và/hoặc muối của nó ở dạng bột",101-14-4,C13H12C12N2,10,1316
+IV,Bảng A,159.,Methyl isocyanate,Metyl isoxyanat,624-83-9,C2H3NO,5.000,1317
+IV,Bảng A,160.,"n-Methyl-n,2,4,6-tetranitroaniline","n-Metyl-n, 2,4,6-tetranitroanilin",479-45-8,C7H5N5O8,5.000,1318
+IV,Bảng A,161.,"2-Methylpropene (1-Propene, 2-methyl-)",2-Metyl 1-propen,115-11-7,C4H8,10.000,1319
+IV,Bảng A,162.,3-Methylpyridine,3-Metylpyridin,108-99-6,C6H7N,500,1320
+IV,Bảng A,163.,"Methyltrichlorosilane (Silane, trichloromethyl-)",Metyl triclo silan,75-79-6,CH3Cl3Si,5.000,1321
+IV,Bảng A,164.,Mevinphos,Mevinphos,7786-34-7,C7H13O6P,5.000,1322
+IV,Bảng A,165.,Sodium chlorate,Natri clorat,7775-09-9,NaClO3,50.000,1323
+IV,Bảng A,166.,Sodium picramate,Natri picramat,831-52-7,C6H4N3NaO5,10.000,1324
+IV,Bảng A,167.,Sodium selenite,Natri selenit,10102-18-8,Na2SeO3,50.000,1325
+IV,Bảng A,168.,Mixtures of sodium hypochlorite,Hỗn hợp chứa natri hypoclorit,,---,200.000,1326
+IV,Bảng A,169.,"Nickel compounds in inhalable powder form (oxides, sulphides, carbonate)","Niken và các hợp chất chứa Ni dạng bột có thể phát tán trong không khí (các loại oxit, cacbonat, sunfua)",,---,1.000,1327
+IV,Bảng A,170.,Nickel tetracarbonyl,Niken tetracacbonyl,13463-39-3,C4NiO4,5.000,1328
+IV,Bảng A,171.,Nitric acid (cone 80% or greater),Axit nitric,7697-37-2,HNO3,5.000,1329
+IV,Bảng A,172.,Nitroglycerin,Nitơ glyxerin,55-63-0,C3H5N3O9,5.000,1330
+IV,Bảng A,173,Nitric oxdide (Nitrogen oxide (NO)),Nitơ monoxit,10102-43-9,NO,50.000,1331
+IV,Bảng A,174.,Nitrogen oxides,Nitơ oxit,11104-93-1,NOx,50.000,1332
+IV,Bảng A,175.,"Nitrocellulose (containing > 12,6% of nitrogen)","Nitơ xenlulo (hàm lượng > 12,6% nitrogen)",9004-70-0,---,10.000,1333
+IV,Bảng A,176.,"Oleum (Fuming Sulfuric acid) (Sulfuric acid, mixture with sulfur trioxide)",Oleum (hỗn hợp axit sunfuric với lưu huỳnh trioxit),8014-95-7,H2SO4*nSO3,5.000,1334
+IV,Bảng A,177.,Oxygen,Oxy,7782-44-7,O2,200.000,1335
+IV,Bảng A,178.,Oxydisulfoton,Oxydisunfoton,2497-07-6,C8H19O3PS3,5.000,1336
+IV,Bảng A,179.,Oxygen difloride,Oxy diflorua,7783-41-7,F2O,5.000,1337
+IV,Bảng A,180.,Paraoxon (diethyl 4-nitrophenylphosphate),Paraoxon (dietyl 4- nitrophenyl photphat),311-45-5,C10H14NO6P,10.000,1338
+IV,Bảng A,181.,Parathion,Parathion,56-38-2,C10H14NO5PS,5.000,1339
+IV,Bảng A,182.,Parathion-methyl,Parathion-metyl,298-00-0,C10H14NO5PS,50.000,1340
+IV,Bảng A,183.,Pensulfothion,Pensunfothion,115-90-2,C11H17O4PS2,5.000,1341
+IV,Bảng A,184.,Pentaborane,Pentaboran,19624-22-7,B5H9,5.000,1342
+IV,Bảng A,185.,"1,3-Pentadiene","1,3-Pentadien",504-60-9,C5H8,10.000,1343
+IV,Bảng A,186.,Pentaerythritol tetranitrate,Pentaerythritol tetranitrat,78-11-5,C5H8N4O12,10.000,1344
+IV,Bảng A,187.,Pentane,Pentan,109-66-0,C5H12,5.000,1345
+IV,Bảng A,188.,1-Pentene,1-Penten,109-67-1,C5H10,5.000,1346
+IV,Bảng A,189.,"2-Pentene, (E)-",(E)-2-Penten,646-04-8,C5H10,5.000,1347
+IV,Bảng A,190.,"2-Pentene, (Z)-",(Z)-2-Penten,627-20-3,C5H10,5.000,1348
+IV,Bảng A,191.,Peracetic acid (> 60%),Axit peraxetic (> 60%),79-21-0,C2H4O3,5.000,1349
+IV,Bảng A,192.,"Perchloromethylmercaptan (Methanesulfenyl chloride, trichloro-)",Perclometyl mercaptan,594-42-3,CCl4S,5.000,1350
+IV,Bảng A,193.,"Phosphorus (White, yellow)",Photpho vàng,7723-14-0,P4,1.000,1351
+IV,Bảng A,194.,Phorate,Phorat,298-02-2,C7H17O2PS3,5.000,1352
+IV,Bảng A,195.,Phosacetim,Phosacetim,4104-14-7,C14H13Cl2N2O2PS,5.000,1353
+IV,Bảng A,196.,Phosphamidon,Phosphamidon,13171-21-6,C10H19CINO5P,50.000,1354
+IV,Bảng A,197.,Phosphorus oxychloride (Phosphoryl chloride),Photpho oxyclorua,10025-87-3,POCl3,5.000,1355
+IV,Bảng A,198.,Phosphorus trichloride (Phosphorous trichloride),Photpho triclorua,7719-12-2,PCl3,5.000,1356
+IV,Bảng A,199.,Phosphorus trihydride (phosphine),Photpho trihydrua (photphin),7803-51-2,PH3,200,1357
+IV,Bảng A,200.,Piperidine,Piperidin,110-89-4,C5H11N,50.000,1358
+IV,Bảng A,201.,Polychlorodibenzo-furans and Polychlorodibenzo-dioxins (including TCDD),Các Polyclo dibenzo furan và Polyclodibenzo dioxin (bao gồm TCDD),33857-26-0,C12H6Cl2O2,1,1359
+IV,Bảng A,202.,2- methyl-Aziridine,Propylen imin,75-55-8,C3H7N,10.000,1360
+IV,Bảng A,203.,"Promurit (1-(3,4-dichlorophenyl) -3-triazene thiocarboxamide)","Promurit (1-(3,4-diclophenyl)-3-triazenethiocacboxamit)",5836-73-7,C7H6Cl2N4S,5.000,1361
+IV,Bảng A,204.,"1,2-Propadiene",Propadien,463-49-0,C3H4,10.000,1362
+IV,Bảng A,205.,2-Propanamine,Isopropylamin,75-31-0,C3H9N,10.000,1363
+IV,Bảng A,206.,Propane,Propan,74-98-6,C3H8,10.000,1364
+IV,Bảng A,207.,"1-propen-2-chloro-1,3-diol-diacetate","1-Propen-2-clo-1,3-diol diaxetat",10118-77-6,C7H9ClO4,10,1365
+IV,Bảng A,208.,1-Propene,Propylen,115-07-1,C3H6,10.000,1366
+IV,Bảng A,209.,Propionitrile (Propanenitrile),Propionitril,107-12-0,C3H5N,5.000,1367
+IV,Bảng A,210.,"Propyl chloroformate (Carbonochloridic acid, propylester)",Propyl cloformat,109-61-5,C4H7ClO2,5.000,1368
+IV,Bảng A,211.,Propylamine,Propylamin,107-10-8,C3H9N,500.000,1369
+IV,Bảng A,212.,Propylen oxide,Propylen oxit,75-56-9,C3H6O,5.000,1370
+IV,Bảng A,213.,1-Propyne,Propin,74-99-7,C3H4,10.000,1371
+IV,Bảng A,214.,Pyrazoxon,Pyrazoxon,108-34-9,C8H15N2O4P,5.000,1372
+IV,Bảng A,215.,"Iron, pentacacbonyl-(Iron carbonyl (Fe (CO)5), (TB-5-11)-)",Sắt pentacacbonyl,13463-40-6,C5FeO5,5.000,1373
+IV,Bảng A,216.,Selenium hexafloride,Selen hexaflorua,7783-79-1,SeF6,5.000,1374
+IV,Bảng A,217.,Silane,Silan,7803-62-5,SiH4,10.000,1375
+IV,Bảng A,218,Stibine (antimony hydril),Stibin (antimon hydril),7803-52-3,SbH3,10.000,1376
+IV,Bảng A,219.,Sulfotepp,Sunfotepp,3689-24-5,C8H20O5P2S2,5.000,1377
+IV,Bảng A,220.,T.E.P.P - (Tetraethyl pyrophosphate),Tepp - tetraetyl pyrophotphat,107-49-3,C8H20O7P2,5.000,1378
+IV,Bảng A,221.,Tellurium hexafloride,Telu hexaflorua,7783-80-4,TeF6,50.000,1379
+IV,Bảng A,222.,Tert-butylperoxy maleate (>80%),Tert-butylperoxy maleat (>80%),1931-62-0,C8H12O5,10.000,1380
+IV,Bảng A,223.,Tert-butylperoxy pivalate (>77%),Tert-butylperoxy pivalat (>77%),927-07-1,C9H18O3,10.000,1381
+IV,Bảng A,224.,"2,3,7,8- tetrachlorodibenzo-p-dioxin","2,3,7,8-Tetraclo dibenzo-p-dioxin",1746-01-6,C12H4Cl4O2,5.000,1382
+IV,Bảng A,225.,"Tetrafluoroethylene (Ethene, tetrafluoro-)",Tetraflo etylen,116-14-3,C2F4,10.000,1383
+IV,Bảng A,226.,"Tetrahydro-3,5- dimethyl-1,3,5,- thiadiazine-2-thione (Dazomet)","Tetrahydro-3,5- dimetyl-1,3,5,- thiadiazin-2-thion (Dazomet)",533-74-4,C5H10N2S2,100.000,1384
+IV,Bảng A,227.,Tetramethylenedisulp hotetramine,Tetrametylen disunphotetramin,80-12-6,C4H8N4O4S12,5.000,1385
+IV,Bảng A,228.,"Tetramethylsilane (Silane, tetramethyl-)",Tetrametyl silan,75-76-3,C4H12Si,5.000,1386
+IV,Bảng A,229.,"Tetranitromethane (Methane, tetranitro-)",Tetranitro metan,509-14-8,CN4O8,5.000,1387
+IV,Bảng A,230.,Thionazin,Thionazin,297-97-2,C8H13N2O3PS,5.000,1388
+IV,Bảng A,231.,Mercury and Mercury compounds,Thủy ngân và các hợp chất của thủy ngân,,---,1,1389
+IV,Bảng A,232.,"Tirpate (2,4-dimethyl-1,3-dithiolane-2-carbo xaldehydeo-methyl carbamoyloxime)","Tirpate (2,4-Dimetyl-2-formyl-1,3-dithiolan oxim metylcacbamat)",26419-73-8,C8H14N2O2S2,100,1390
+IV,Bảng A,233.,Titanium tetrachloride (Titanium chloride (TiCl4) (T-4)-),Titan tetraclorua,7550-45-0,TiCl4,5.000,1391
+IV,Bảng A,234.,"2,4-Toluene di-isocyanate","2,4-Toluen diisoxyanat",584-84-9,C9H6N2O2,10.000,1392
+IV,Bảng A,235.,"2,6- Toluene di-isocyanate","2,6-Toluen di-isoxyanat",91-08-7,C9H6N2O2,10.000,1393
+IV,Bảng A,236.,Toluene di-isocyanate,Toluen di-isoxyanat,26471-62-5,C9H6N2O2,10.000,1394
+IV,Bảng A,237.,"1,3,5- Triamino-2,4,6-trinitrobenzene","1,3,5- Triamino- 2,4,6- trinitro benzen",3058-38-6,C6H6N6O6,10.000,1395
+IV,Bảng A,238.,"Trichlorosilane (Silane, trichloro-)",Triclo silan,10025-78-2,SiHCl3,5.000,1396
+IV,Bảng A,239.,Triethylenemelamine,Trietylenmelamin,51-18-3,C9H12N6,100,1397
+IV,Bảng A,240.,"Trifluorochloroethylene (Ethene, chlorotrifluoro-)",Triflocloetylen,79-38-9,C2ClF3,10.000,1398
+IV,Bảng A,241.,Trimethylamine,Trimetylamin,75-50-3,C3H9N,5.000,1399
+IV,Bảng A,242.,"Trimethylchlorosilane (Silane, chlorotrimethyl-)",Trimetylclosilan,75-77-4,C3H9ClSi,5.000,1400
+IV,Bảng A,243.,Trinitroaniline,Trinitro anilin,26952-42-1,C6H4N4O6,50.000,1401
+IV,Bảng A,244.,"2,4,6-trinitroanisole","2,4,6-Trinitroanisol",606-35-9,C7H5N3O7,10.000,1402
+IV,Bảng A,245.,Trinitrobenzene,"1,3,5-Trinitro benzen",99-35-4,C6H3N3O6,5.000,1403
+IV,Bảng A,246.,Trinitrobenzoic acid,Axit trinitrobenzoic,129-66-8,C7H3N3O8,10.000,1404
+IV,Bảng A,247.,Trinitrocresol,Trinitro cresol,602-99-3,C7H5N3O7,50.000,1405
+IV,Bảng A,248.,"2,4,6- trinitrophenetole","2,4,6-Trinitrophenetol",4732-14-3,C8H7N3O7,10.000,1406
+IV,Bảng A,249.,"2,4,6-Trinitrophenol (picric acid)","2,4,6-Trinitrophenol",88-89-1,C6H3N3O7,10.000,1407
+IV,Bảng A,250.,"2,4,6- Trinitroresorcinol (styphnic acid)","2,4,6- Trinitroresorcinol",82-71-3,C6H3N3O8,10.000,1408
+IV,Bảng A,251.,"2,4,6-trinitrotoluene","2,4,6-trinitrotoluen",118-96-7,C7H5N3O6,10.000,1409
+IV,Bảng A,252.,Vinyl acetate monomer (Acetic acid ethenyl ester),Vinyl axetat,108-05-4,C4H6O2,10.000,1410
+IV,Bảng A,253.,Vinyl acetylene (1-Buten-3-yne),Vinyl axetylen,689-97-4,C4H4,10.000,1411
+IV,Bảng A,254.,"Vinyl chloride (Ethene, chloro)",Vinyl clorua,75-01-4,C2H3Cl,10.000,1412
+IV,Bảng A,255.,"Vinyl ethyl ether (Ethene, ethoxy-)",Vinyl etyl ete,109-92-2,C4H8O,10.000,1413
+IV,Bảng A,256.,"Vinyl fluoride (Ethene, fluoro)",Vinyl florua,75-02-5,C2H3F,10.000,1414
+IV,Bảng A,257.,"Vinyl methyl ether (Ethene, methoxy-)",Vinyl metyl ete,107-25-5,C3H6O,10.000,1415
+IV,Bảng A,258.,"Vinylidene chloride (Ethene, 1,1-dichloro-)",Vinyliden clorua,75-35-4,C2H2Cl2,10.000,1416
+IV,Bảng A,259.,"Vinylidene fluoride (Ethene, 1,1-difluoro-)",Vinyliden florua,75-38-7,C2H2F2,10.000,1417
+IV,Bảng A,260.,Warfarin ((RS)-4-hydroxy-3 -(3 -oxo-1 -phenylbutyl)-2H-chromen-2-one),Warfarin ((RS)-4-hydroxy-3-(3 -oxo-1 -phenylbutyl)-2H-chromen-2-on),81-81-2,C19H16O4,5.000,1418
+IV,Bảng A,261.,Cyanogen (Ethanedinitrile),Xyanogen (Etandinitril),460-19-5,C2H2,10.000,1419
+IV,Bảng A,262.,Cyanogen chloride,Xyanogen clorua,506-77-4,CCl N,5.000,1420
+IV,Bảng A,263.,2-cyanopropan-2-ol (acetone cyanohydrin),2-xyano-2-propanol,75-86-5,C4H7NO,5.000,1421
+IV,Bảng A,264.,Cyathoate,Xyanthoat,3734-95-0,C10H19N2O4PS,5.000,1422
+IV,Bảng A,265.,Cyanide compounds,Các hợp chất xyanua,,---,5.000,1423
+IV,Bảng A,266.,Cycloheximide,Xycloheximit,66-81-9,C15H23NO4,5.000,1424
+IV,Bảng A,267.,Cyclohexylamine (Cyclohexanamine),Xyclohexan amin,108-91-8,C6H13N,5.000,1425
+IV,Bảng A,268.,Cyclopropane,Xyclopropan,75-19-4,C3H6,10.000,1426
+IV,Bảng A,269.,Cyclotetramethylenet etranitramine,Xyclotetrametylen tetra nitramin,2691-41-0,C4H8N8O8,10.000,1427
+IV,Bảng A,270.,Cyclotrimethylene trinitramine,Xyclotrimetylen trinitramin,121-82-4,C3H6N6O6,10.000,1428
+IV,Bảng A,271.,"The following carcinogens or the mixtures containing the following carcinogens at concentrations above 5% by weight: 4-Aminobiphenyl and/or its salts, Benzotrichloride, Benzidine and/or salts, Bis (chloromethyl) ether, Chloromethyl methyl ether, 1,2-Dibromometan, Diethyl sulfate, Dimethyl sulfate, Dimetylcarbamoyl chloride, 1,2-Dibrom-3-chloropropane, 1,2-Dimethyl hydrazin, Dimethylnitrosamine, Hexamethylphosphoric triamide, hydrazine, 2-Naphtylamine and/or salts, 4-Nitrodiphenyl and 1,3 Propanesultone","Các chất có khả năng gây ung thư hoặc các hỗn hợp chứa các chất có khả năng gây ung thư thành phần khối lượng trên 5%: 4-Aminobiphenyl và/hoặc muối của nó, Benzotriclorid, Benzidin và/hoặc các muối, Bis (clorometyl) ete, Clometyl metyl ete, 1,2-Dibrometan, Dietyl sunphat, Dimetyl sunphat, Dimetylcacbamoyl clorit, 1,2-Dibrom-3-clo propan, 1,2-Dimetylhydrazin, Dimetylnitro amin, Hexametylphotphoric triamit, Hydrazin, 2-Naphtylamin và/hoặc muối của 4-Nitrodiphenyl và 1,3 -Propanesulton",,---,500,1429

@@ -1,0 +1,20 @@
+Ngày mai, trên máy mới
+
+  cd /d <thu muc du an>
+
+  :: 1. ETL — Python toan cuc
+  python -m pip install -r requirements-etl.txt
+
+  :: 2. Dashboard — venv rieng
+  python -m venv .venv
+  .venv\Scripts\python.exe -m pip install -r requirements-app.txt
+
+  :: 3. Kiem tra
+  python etl\run_all.py
+  run_dashboard.bat
+
+  Rồi mở Claude Code trong thư mục đó — CLAUDE.md được nạp tự động, tôi sẽ biết ngay bối cảnh. Anh chỉ cần nói việc muốn
+  làm tiếp, không phải kể lại từ đầu.
+
+  Một lưu ý cho máy mới: nếu máy đó không có paddlepaddle-gpu thì về lý thuyết cài streamlit toàn cục cũng được — nhưng
+  cứ giữ .venv cho nhất quán, và README_APP.md đã ghi rõ lý do để người sau không phá.

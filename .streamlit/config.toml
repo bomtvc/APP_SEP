@@ -1,0 +1,50 @@
+# Giao diện Dashboard — bảng màu và chrome.
+#
+# Màu lấy từ bảng màu tham chiếu của skill dataviz và ĐÃ chạy validator
+# (scripts/validate_palette.py) cho 3 slot dùng trong biểu đồ:
+#   sáng, nền #fcfcfb : CVD ΔE 9.2 · thị lực thường ΔE 24.0 · #1baf7a đạt 2.74:1
+#                       (dưới 3:1 → bắt buộc có nhãn trực tiếp hoặc bảng số liệu)
+#   tối,  nền #1a1a19 : CVD ΔE 9.4 · thị lực thường ΔE 20.9 · cả 3 đạt trên 3:1
+#
+# Đổi màu ở đây thì phải chạy lại validator, đừng chọn bằng mắt.
+# Bảng màu trong `app/loaders.py` (hàm `palette`) phải khớp với file này.
+
+[theme]
+base = "light"
+font = "system-ui, -apple-system, Segoe UI, sans-serif"
+baseRadius = "0.5rem"
+showWidgetBorder = true
+
+[theme.light]
+backgroundColor = "#fcfcfb"          # mặt nền biểu đồ — đúng nền đã kiểm định
+secondaryBackgroundColor = "#f2f1ec"
+textColor = "#0b0b0b"
+primaryColor = "#2a78d6"
+borderColor = "#e1e0d9"
+linkColor = "#256abf"
+dataframeBorderColor = "#e1e0d9"
+dataframeHeaderBackgroundColor = "#f2f1ec"
+chartCategoricalColors = ["#2a78d6", "#eb6834", "#1baf7a", "#eda100",
+                          "#e87ba4", "#008300", "#4a3aa7", "#e34948"]
+chartSequentialColors = ["#cde2fb", "#b7d3f6", "#9ec5f4", "#86b6ef", "#6da7ec",
+                         "#5598e7", "#3987e5", "#2a78d6", "#256abf", "#1c5cab"]
+
+[theme.light.sidebar]
+backgroundColor = "#f9f9f7"
+
+[theme.dark]
+backgroundColor = "#1a1a19"
+secondaryBackgroundColor = "#262624"
+textColor = "#ffffff"
+primaryColor = "#3987e5"
+borderColor = "#2c2c2a"
+linkColor = "#86b6ef"
+dataframeBorderColor = "#2c2c2a"
+dataframeHeaderBackgroundColor = "#262624"
+chartCategoricalColors = ["#3987e5", "#d95926", "#199e70", "#c98500",
+                          "#d55181", "#008300", "#9085e9", "#e66767"]
+chartSequentialColors = ["#0d366b", "#104281", "#184f95", "#1c5cab", "#256abf",
+                         "#2a78d6", "#3987e5", "#5598e7", "#6da7ec", "#86b6ef"]
+
+[theme.dark.sidebar]
+backgroundColor = "#0d0d0d"

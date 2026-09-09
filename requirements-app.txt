@@ -1,0 +1,8 @@
+# Phụ thuộc của Dashboard — cài vào .venv riêng, KHÔNG cài vào Python toàn cục.
+#   python -m venv .venv
+#   .venv\Scripts\python.exe -m pip install -r requirements-app.txt
+streamlit==1.63.0
+pandas==3.0.5
+altair==6.2.2
+openpyxl==3.1.5
+pymupdf==1.28.2
