@@ -18,9 +18,10 @@ https://claude.ai/code/artifact/61883fe3-35c7-4634-81fd-2b283552ce49
 ## Chạy
 
 ```bat
-python etl\run_all.py                            :: ETL — dùng Python TOÀN CỤC
-run_dashboard.bat                                :: Dashboard — dùng .venv
-.venv\Scripts\python.exe tests\test_dashboard.py  :: Kiểm thử Dashboard
+python etl\run_all.py                                :: ETL — dùng Python TOÀN CỤC
+run_dashboard.bat                                    :: Dashboard — dùng .venv
+.venv\Scripts\python.exe tests\test_dashboard.py     :: Kiểm thử Dashboard
+.venv\Scripts\python.exe tests\test_deploy_linux.py  :: Kiểm TRƯỚC khi đẩy lên Cloud
 ```
 
 ### Bẫy môi trường, đọc trước khi cài gì
@@ -29,14 +30,15 @@ run_dashboard.bat                                :: Dashboard — dùng .venv
 `protobuf <= 3.20.2`. **Hai gói không sống chung được.** Vì vậy:
 
 - ETL chạy bằng **Python toàn cục** → `requirements-etl.txt`
-- Dashboard chạy bằng **`.venv` riêng** → `requirements-app.txt`
+- Dashboard chạy bằng **`.venv` riêng** → `requirements.txt`
+  (tên phải đúng là `requirements.txt` — Streamlit Cloud chỉ nhận tên này)
 - **Không bao giờ `pip install streamlit` vào Python toàn cục.**
 
 Dựng lại `.venv` trên máy mới:
 
 ```bat
 python -m venv .venv
-.venv\Scripts\python.exe -m pip install -r requirements-app.txt
+.venv\Scripts\python.exe -m pip install -r requirements.txt
 python -m pip install -r requirements-etl.txt
 ```
 
@@ -297,6 +299,46 @@ mới chỉ có thể làm tỉ lệ **tăng hoặc giữ nguyên, không bao gi
 trên Dashboard vẫn là **0,98** — đỉnh nitrocellulose 6.774 kg ngày **14/01/2026**,
 nằm trong dữ liệu THẬT. Muốn Dashboard hiện dưới 0,8 thì phải hạ chính đỉnh lịch sử
 đó (~27%), tức sửa số liệu thật — chưa làm, xem "Việc còn mở".
+
+---
+
+## Deploy lên Streamlit Community Cloud
+
+Repo: https://github.com/bomtvc/APP_SEP · điểm vào `app/main.py`.
+
+**Cloud chạy Linux, máy phát triển là Windows** — code Windows-only lọt vào rất êm,
+local không sao, đẩy lên mới chết. Chạy `tests/test_deploy_linux.py` TRƯỚC khi đẩy;
+nó giả lập Linux (đổi `sys.platform`, chặn `ctypes.wintypes`/`ctypes.windll`) rồi
+nạp thử từng module của `app/`.
+
+Hai lỗi làm hỏng lần deploy đầu, 09/09/2026:
+
+1. **`app/loaders.py` gọi `ctypes.windll.kernel32.GetCompressedFileSizeW` ngay ở
+   mức module** (đọc dung lượng thật của file OneDrive). Ngoài Windows,
+   `ctypes.windll` không tồn tại và cả `from ctypes import wintypes` cũng ném lỗi
+   -> app chết ngay lúc import. Nay cả khối nằm sau cờ `loaders._WINDOWS`; ngoài
+   Windows không có OneDrive Files On-Demand nên `msds_state` trả `'san_sang'` luôn.
+2. **File phụ thuộc tên là `requirements-app.txt`.** Cloud CHỈ tự nhận
+   `requirements.txt` (hoặc environment.yml / Pipfile / pyproject.toml), nên nó bị
+   bỏ qua sạch. Đã đổi tên thành `requirements.txt`, và bỏ `openpyxl`/`pymupdf` ra
+   khỏi đó — Dashboard chỉ đọc CSV, hai gói kia là của ETL, để lại chỉ làm chậm
+   build. `requirements-etl.txt` giữ nguyên cho Python toàn cục.
+
+Những chỗ khác dễ vấp khi lên Linux, hiện đã đạt:
+
+- **Cloud chỉ có những gì trong git.** Toàn bộ `data/`, `Chemical/` (176 MSDS +
+  2 Excel), `Logo_Mark.png`, `.streamlit/config.toml` và `etl/config.py` đều đã
+  commit — `loaders.py` import `etl/config.py` để lấy đường dẫn nên thư mục `etl/`
+  là bắt buộc, không phải chỉ để chạy ETL.
+- **ext4 phân biệt hoa thường, NTFS thì không.** Sai hoa thường trong đường dẫn vẫn
+  chạy trên máy, lên Cloud mới báo không thấy file.
+- **Dấu tiếng Việt có hai cách mã hóa** (NFC "ã" một ký tự · NFD "a" + dấu). Tên như
+  `Chemical/MSDS 176 mã 2026` mà git giữ dạng khác với chuỗi trong `config.py` thì
+  Linux không mở được, Windows vẫn mở bình thường. Mục 4 của bài kiểm so tên trong
+  `config.py` với tên git đang giữ, **phải dùng `git ls-files -z`** — mặc định git
+  đổi tên có ký tự ngoài ASCII sang dạng thoát bát phân nên so kiểu thường không
+  bao giờ khớp.
+- `app/main.py` đọc `st_file_attributes` qua `getattr(..., 0)` nên Linux không sao.
 
 ---
 

@@ -1,8 +1,18 @@
-# Phụ thuộc của Dashboard — cài vào .venv riêng, KHÔNG cài vào Python toàn cục.
+# Phụ thuộc của Dashboard.
+#
+# TÊN FILE PHẢI LÀ `requirements.txt`: Streamlit Community Cloud chỉ tự nhận file
+# tên này (hoặc environment.yml / Pipfile / pyproject.toml). Đổi thành
+# `requirements-app.txt` là Cloud bỏ qua, deploy lên chạy với phiên bản mặc định
+# của nó — đây từng là một trong hai lý do deploy hỏng ngày 09/09/2026.
+#
+# Dựng .venv trên máy:
 #   python -m venv .venv
-#   .venv\Scripts\python.exe -m pip install -r requirements-app.txt
+#   .venv\Scripts\python.exe -m pip install -r requirements.txt
+#
+# KHÔNG cài streamlit vào Python toàn cục: streamlit cần protobuf>=5, sẽ phá
+# paddlepaddle-gpu nếu máy có cài (paddlepaddle yêu cầu protobuf<=3.20.2).
+# ETL chạy bằng Python toàn cục và có danh sách riêng: requirements-etl.txt.
 streamlit==1.63.0
 pandas==3.0.5
 altair==6.2.2
-openpyxl==3.1.5
-pymupdf==1.28.2
+pillow==12.3.0

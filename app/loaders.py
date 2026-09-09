@@ -4,11 +4,11 @@
 Dashboard chỉ ĐỌC. Mọi biến đổi số liệu nằm ở etl/; nếu một con số trên màn hình
 trông sai thì sửa ở ETL rồi chạy lại `python etl/run_all.py`, không vá tại đây.
 """
-import ctypes
 import os
 import sys
 import threading
-from ctypes import wintypes
+# `ctypes.wintypes` KHÔNG import được ngoài Windows (ném lỗi ngay), nên nó nằm
+# trong nhánh `if _WINDOWS` ở cuối file chứ không ở đây.
 
 import pandas as pd
 import streamlit as st
@@ -190,22 +190,37 @@ def msds_file(code):
 # 176 file có dung lượng thực trên đĩa = 0. Nên phải hỏi thêm dung lượng THỰC:
 # GetCompressedFileSizeW trả 0 với placeholder, trả đúng cỡ với file đã tải. Đây là
 # lệnh hỏi metadata, không chạm vào dữ liệu nên không kích hoạt tải về.
+#
+# TOÀN BỘ khối này CHỈ CÓ NGHĨA TRÊN WINDOWS và phải nằm sau cờ `_WINDOWS`. Trước
+# đây nó chạy thẳng ở mức module, nên khi deploy lên Streamlit Community Cloud
+# (chạy Linux) thì app chết ngay lúc import: `ctypes.windll` không tồn tại ngoài
+# Windows, và ngay cả `from ctypes import wintypes` cũng ném lỗi. Ở nơi không phải
+# Windows thì không có OneDrive Files On-Demand, mọi file đều là file thật, nên
+# `msds_state` trả 'san_sang' luôn.
 _RECALL_ON_DATA_ACCESS = 0x00400000
 _RECALL_ON_OPEN = 0x00040000
 _PINNED = 0x00080000
 
-_GetCompressedFileSizeW = ctypes.windll.kernel32.GetCompressedFileSizeW
-_GetCompressedFileSizeW.argtypes = [wintypes.LPCWSTR, ctypes.POINTER(wintypes.DWORD)]
-_GetCompressedFileSizeW.restype = wintypes.DWORD
+_WINDOWS = sys.platform == 'win32'
 
+if _WINDOWS:
+    import ctypes
+    from ctypes import wintypes
 
-def _bytes_tren_dia(path):
-    """Dung lượng file thực sự chiếm trên đĩa. 0 nghĩa là placeholder rỗng ruột."""
-    hi = wintypes.DWORD(0)
-    lo = _GetCompressedFileSizeW(os.path.abspath(path), ctypes.byref(hi))
-    if lo == 0xFFFFFFFF:
-        return None  # không hỏi được thì coi như không biết, đừng chặn người dùng
-    return (hi.value << 32) | lo
+    _GetCompressedFileSizeW = ctypes.windll.kernel32.GetCompressedFileSizeW
+    _GetCompressedFileSizeW.argtypes = [wintypes.LPCWSTR, ctypes.POINTER(wintypes.DWORD)]
+    _GetCompressedFileSizeW.restype = wintypes.DWORD
+
+    def _bytes_tren_dia(path):
+        """Dung lượng file thực sự chiếm trên đĩa. 0 nghĩa là placeholder rỗng ruột."""
+        hi = wintypes.DWORD(0)
+        lo = _GetCompressedFileSizeW(os.path.abspath(path), ctypes.byref(hi))
+        if lo == 0xFFFFFFFF:
+            return None  # không hỏi được thì coi như không biết, đừng chặn người dùng
+        return (hi.value << 32) | lo
+else:
+    def _bytes_tren_dia(path):
+        return None
 
 
 def msds_state(path):
@@ -213,7 +228,12 @@ def msds_state(path):
 
     cho_tai      : đã ghim giữ máy nhưng OneDrive chưa tải xong.
     tren_may_chu : chưa ghim, đang chỉ nằm trên đám mây.
+
+    Ngoài Windows luôn trả 'san_sang': không có OneDrive Files On-Demand thì không
+    có file vỏ rỗng để đề phòng.
     """
+    if not _WINDOWS:
+        return 'san_sang', ''
     try:
         stt = os.stat(path)
     except OSError as e:
